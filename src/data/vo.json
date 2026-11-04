@@ -1,0 +1,8072 @@
+{
+  "s1": {
+    "text": "Si tomas el mapa de Uruguay y lo arrastras sobre Europa o Asia, ocurre algo desconcertante. En sus ciento setenta y seis mil kilómetros cuadrados cabrían Inglaterra y Gales juntos, o casi dos veces Corea del Sur. Pero mientras Inglaterra alberga a más de cincuenta y siete millones de personas y Corea del Sur supera los cincuenta y un millones... en Uruguay apenas viven tres millones cuatrocientos noventa y nueve mil habitantes.",
+    "seconds": 23.582,
+    "words": [
+      {
+        "text": "Si",
+        "start": 0,
+        "end": 0.146
+      },
+      {
+        "text": "tomas",
+        "start": 0.146,
+        "end": 0.466
+      },
+      {
+        "text": "el",
+        "start": 0.466,
+        "end": 0.466
+      },
+      {
+        "text": "mapa",
+        "start": 0.466,
+        "end": 0.786
+      },
+      {
+        "text": "de",
+        "start": 0.786,
+        "end": 0.866
+      },
+      {
+        "text": "Uruguay",
+        "start": 0.866,
+        "end": 1.266
+      },
+      {
+        "text": "y",
+        "start": 1.666,
+        "end": 1.746
+      },
+      {
+        "text": "lo",
+        "start": 1.746,
+        "end": 1.906
+      },
+      {
+        "text": "arrastras",
+        "start": 1.906,
+        "end": 2.306
+      },
+      {
+        "text": "sobre",
+        "start": 2.306,
+        "end": 2.466
+      },
+      {
+        "text": "Europa",
+        "start": 2.466,
+        "end": 2.866
+      },
+      {
+        "text": "o",
+        "start": 2.866,
+        "end": 2.946
+      },
+      {
+        "text": "Asia",
+        "start": 2.946,
+        "end": 3.266
+      },
+      {
+        "text": "ocurre",
+        "start": 3.666,
+        "end": 4.066
+      },
+      {
+        "text": "algo",
+        "start": 4.066,
+        "end": 4.306
+      },
+      {
+        "text": "desconcertante",
+        "start": 4.306,
+        "end": 5.106
+      },
+      {
+        "text": "En",
+        "start": 5.906,
+        "end": 5.986
+      },
+      {
+        "text": "sus",
+        "start": 5.986,
+        "end": 6.146
+      },
+      {
+        "text": "ciento",
+        "start": 6.146,
+        "end": 6.466
+      },
+      {
+        "text": "setenta",
+        "start": 6.466,
+        "end": 6.866
+      },
+      {
+        "text": "y",
+        "start": 6.866,
+        "end": 6.866
+      },
+      {
+        "text": "seis",
+        "start": 6.866,
+        "end": 7.106
+      },
+      {
+        "text": "mil",
+        "start": 7.106,
+        "end": 7.266
+      },
+      {
+        "text": "kilómetros",
+        "start": 7.266,
+        "end": 7.746
+      },
+      {
+        "text": "cuadrados",
+        "start": 7.746,
+        "end": 8.306
+      },
+      {
+        "text": "cabrían",
+        "start": 8.306,
+        "end": 8.626
+      },
+      {
+        "text": "Inglaterra",
+        "start": 8.626,
+        "end": 9.186
+      },
+      {
+        "text": "y",
+        "start": 9.186,
+        "end": 9.266
+      },
+      {
+        "text": "Gales",
+        "start": 9.266,
+        "end": 9.586
+      },
+      {
+        "text": "juntos",
+        "start": 9.586,
+        "end": 10.066
+      },
+      {
+        "text": "o",
+        "start": 10.466,
+        "end": 10.546
+      },
+      {
+        "text": "casi",
+        "start": 10.546,
+        "end": 10.786
+      },
+      {
+        "text": "dos",
+        "start": 10.786,
+        "end": 10.946
+      },
+      {
+        "text": "veces",
+        "start": 10.946,
+        "end": 11.186
+      },
+      {
+        "text": "Corea",
+        "start": 11.186,
+        "end": 11.426
+      },
+      {
+        "text": "del",
+        "start": 11.426,
+        "end": 11.586
+      },
+      {
+        "text": "Sur",
+        "start": 11.586,
+        "end": 11.986
+      },
+      {
+        "text": "Pero",
+        "start": 12.369,
+        "end": 12.529
+      },
+      {
+        "text": "mientras",
+        "start": 12.529,
+        "end": 12.849
+      },
+      {
+        "text": "Inglaterra",
+        "start": 12.849,
+        "end": 13.329
+      },
+      {
+        "text": "alberga",
+        "start": 13.329,
+        "end": 13.729
+      },
+      {
+        "text": "a",
+        "start": 13.729,
+        "end": 13.729
+      },
+      {
+        "text": "más",
+        "start": 13.729,
+        "end": 13.969
+      },
+      {
+        "text": "de",
+        "start": 13.969,
+        "end": 14.049
+      },
+      {
+        "text": "cincuenta",
+        "start": 14.049,
+        "end": 14.449
+      },
+      {
+        "text": "y",
+        "start": 14.449,
+        "end": 14.529
+      },
+      {
+        "text": "siete",
+        "start": 14.529,
+        "end": 14.769
+      },
+      {
+        "text": "millones",
+        "start": 14.769,
+        "end": 15.169
+      },
+      {
+        "text": "de",
+        "start": 15.169,
+        "end": 15.249
+      },
+      {
+        "text": "personas",
+        "start": 15.249,
+        "end": 15.809
+      },
+      {
+        "text": "y",
+        "start": 16.049,
+        "end": 16.129
+      },
+      {
+        "text": "Corea",
+        "start": 16.129,
+        "end": 16.369
+      },
+      {
+        "text": "del",
+        "start": 16.369,
+        "end": 16.529
+      },
+      {
+        "text": "Sur",
+        "start": 16.529,
+        "end": 16.849
+      },
+      {
+        "text": "supera",
+        "start": 17.089,
+        "end": 17.409
+      },
+      {
+        "text": "los",
+        "start": 17.409,
+        "end": 17.569
+      },
+      {
+        "text": "cincuenta",
+        "start": 17.569,
+        "end": 17.969
+      },
+      {
+        "text": "y",
+        "start": 17.969,
+        "end": 18.129
+      },
+      {
+        "text": "un",
+        "start": 18.129,
+        "end": 18.209
+      },
+      {
+        "text": "millones",
+        "start": 18.209,
+        "end": 18.769
+      },
+      {
+        "text": "en",
+        "start": 19.089,
+        "end": 19.249
+      },
+      {
+        "text": "Uruguay",
+        "start": 19.249,
+        "end": 19.649
+      },
+      {
+        "text": "apenas",
+        "start": 19.649,
+        "end": 19.969
+      },
+      {
+        "text": "viven",
+        "start": 19.969,
+        "end": 20.609
+      },
+      {
+        "text": "tres",
+        "start": 20.609,
+        "end": 20.849
+      },
+      {
+        "text": "millones",
+        "start": 20.849,
+        "end": 21.249
+      },
+      {
+        "text": "cuatrocientos",
+        "start": 21.249,
+        "end": 22.049
+      },
+      {
+        "text": "noventa",
+        "start": 22.049,
+        "end": 22.369
+      },
+      {
+        "text": "y",
+        "start": 22.369,
+        "end": 22.449
+      },
+      {
+        "text": "nueve",
+        "start": 22.449,
+        "end": 22.609
+      },
+      {
+        "text": "mil",
+        "start": 22.609,
+        "end": 22.769
+      },
+      {
+        "text": "habitantes",
+        "start": 22.769,
+        "end": 23.489
+      }
+    ]
+  },
+  "s2": {
+    "text": "En casi cualquier otro rincón del planeta, cuando un país está así de despoblado, la geografía tiene la culpa. Hay desiertos abrasadores como en Australia, hielos perpetuos como en Islandia, selvas impenetrables o cordilleras imposibles. Pero Uruguay no tiene nada de eso. Es una penillanura suave, templada, regada por cientos de ríos y con casi el noventa por ciento de su suelo apto para producir alimentos. Es uno de los territorios más habitables de la Tierra.",
+    "seconds": 26.172,
+    "words": [
+      {
+        "text": "En",
+        "start": 0,
+        "end": 0.081
+      },
+      {
+        "text": "casi",
+        "start": 0.081,
+        "end": 0.321
+      },
+      {
+        "text": "cualquier",
+        "start": 0.321,
+        "end": 0.641
+      },
+      {
+        "text": "otro",
+        "start": 0.641,
+        "end": 0.801
+      },
+      {
+        "text": "rincón",
+        "start": 0.801,
+        "end": 1.201
+      },
+      {
+        "text": "del",
+        "start": 1.201,
+        "end": 1.361
+      },
+      {
+        "text": "planeta",
+        "start": 1.361,
+        "end": 1.841
+      },
+      {
+        "text": "cuando",
+        "start": 2.241,
+        "end": 2.481
+      },
+      {
+        "text": "un",
+        "start": 2.481,
+        "end": 2.561
+      },
+      {
+        "text": "país",
+        "start": 2.561,
+        "end": 2.801
+      },
+      {
+        "text": "está",
+        "start": 2.801,
+        "end": 3.441
+      },
+      {
+        "text": "así",
+        "start": 3.441,
+        "end": 3.681
+      },
+      {
+        "text": "de",
+        "start": 3.681,
+        "end": 3.761
+      },
+      {
+        "text": "despoblado",
+        "start": 3.761,
+        "end": 4.481
+      },
+      {
+        "text": "la",
+        "start": 4.881,
+        "end": 4.961
+      },
+      {
+        "text": "geografía",
+        "start": 4.961,
+        "end": 5.521
+      },
+      {
+        "text": "tiene",
+        "start": 5.521,
+        "end": 5.761
+      },
+      {
+        "text": "la",
+        "start": 5.761,
+        "end": 5.841
+      },
+      {
+        "text": "culpa",
+        "start": 5.841,
+        "end": 6.241
+      },
+      {
+        "text": "Hay",
+        "start": 6.801,
+        "end": 6.961
+      },
+      {
+        "text": "desiertos",
+        "start": 6.961,
+        "end": 7.441
+      },
+      {
+        "text": "abrasadores",
+        "start": 7.441,
+        "end": 8.001
+      },
+      {
+        "text": "como",
+        "start": 8.001,
+        "end": 8.161
+      },
+      {
+        "text": "en",
+        "start": 8.161,
+        "end": 8.241
+      },
+      {
+        "text": "Australia",
+        "start": 8.241,
+        "end": 8.801
+      },
+      {
+        "text": "hielos",
+        "start": 9.281,
+        "end": 9.521
+      },
+      {
+        "text": "perpetuos",
+        "start": 9.521,
+        "end": 10.001
+      },
+      {
+        "text": "como",
+        "start": 10.001,
+        "end": 10.241
+      },
+      {
+        "text": "en",
+        "start": 10.241,
+        "end": 10.241
+      },
+      {
+        "text": "Islandia",
+        "start": 10.241,
+        "end": 10.881
+      },
+      {
+        "text": "selvas",
+        "start": 11.201,
+        "end": 11.521
+      },
+      {
+        "text": "impenetrables",
+        "start": 11.521,
+        "end": 12.241
+      },
+      {
+        "text": "o",
+        "start": 12.241,
+        "end": 12.321
+      },
+      {
+        "text": "cordilleras",
+        "start": 12.321,
+        "end": 12.961
+      },
+      {
+        "text": "imposibles",
+        "start": 12.961,
+        "end": 13.601
+      },
+      {
+        "text": "Pero",
+        "start": 13.921,
+        "end": 14.081
+      },
+      {
+        "text": "Uruguay",
+        "start": 14.081,
+        "end": 14.401
+      },
+      {
+        "text": "no",
+        "start": 14.401,
+        "end": 14.561
+      },
+      {
+        "text": "tiene",
+        "start": 14.561,
+        "end": 14.721
+      },
+      {
+        "text": "nada",
+        "start": 14.721,
+        "end": 14.961
+      },
+      {
+        "text": "de",
+        "start": 14.961,
+        "end": 15.121
+      },
+      {
+        "text": "eso",
+        "start": 15.121,
+        "end": 15.441
+      },
+      {
+        "text": "Es",
+        "start": 15.87,
+        "end": 15.95
+      },
+      {
+        "text": "una",
+        "start": 15.95,
+        "end": 16.11
+      },
+      {
+        "text": "penillanura",
+        "start": 16.11,
+        "end": 16.67
+      },
+      {
+        "text": "suave",
+        "start": 16.67,
+        "end": 16.99
+      },
+      {
+        "text": "templada",
+        "start": 17.07,
+        "end": 17.71
+      },
+      {
+        "text": "regada",
+        "start": 18.03,
+        "end": 18.35
+      },
+      {
+        "text": "por",
+        "start": 18.35,
+        "end": 18.51
+      },
+      {
+        "text": "cientos",
+        "start": 18.51,
+        "end": 18.83
+      },
+      {
+        "text": "de",
+        "start": 18.83,
+        "end": 18.91
+      },
+      {
+        "text": "ríos",
+        "start": 18.91,
+        "end": 19.39
+      },
+      {
+        "text": "y",
+        "start": 19.55,
+        "end": 19.71
+      },
+      {
+        "text": "con",
+        "start": 19.71,
+        "end": 19.87
+      },
+      {
+        "text": "casi",
+        "start": 19.87,
+        "end": 20.11
+      },
+      {
+        "text": "el",
+        "start": 20.11,
+        "end": 20.19
+      },
+      {
+        "text": "noventa",
+        "start": 20.19,
+        "end": 20.59
+      },
+      {
+        "text": "por",
+        "start": 20.59,
+        "end": 20.75
+      },
+      {
+        "text": "ciento",
+        "start": 20.75,
+        "end": 20.99
+      },
+      {
+        "text": "de",
+        "start": 20.99,
+        "end": 21.07
+      },
+      {
+        "text": "su",
+        "start": 21.07,
+        "end": 21.23
+      },
+      {
+        "text": "suelo",
+        "start": 21.23,
+        "end": 21.71
+      },
+      {
+        "text": "apto",
+        "start": 21.87,
+        "end": 22.19
+      },
+      {
+        "text": "para",
+        "start": 22.19,
+        "end": 22.35
+      },
+      {
+        "text": "producir",
+        "start": 22.35,
+        "end": 22.75
+      },
+      {
+        "text": "alimentos",
+        "start": 22.75,
+        "end": 23.39
+      },
+      {
+        "text": "Es",
+        "start": 23.71,
+        "end": 23.95
+      },
+      {
+        "text": "uno",
+        "start": 23.95,
+        "end": 24.11
+      },
+      {
+        "text": "de",
+        "start": 24.11,
+        "end": 24.11
+      },
+      {
+        "text": "los",
+        "start": 24.11,
+        "end": 24.27
+      },
+      {
+        "text": "territorios",
+        "start": 24.27,
+        "end": 24.83
+      },
+      {
+        "text": "más",
+        "start": 24.83,
+        "end": 24.99
+      },
+      {
+        "text": "habitables",
+        "start": 24.99,
+        "end": 25.47
+      },
+      {
+        "text": "de",
+        "start": 25.47,
+        "end": 25.55
+      },
+      {
+        "text": "la",
+        "start": 25.55,
+        "end": 25.63
+      },
+      {
+        "text": "Tierra",
+        "start": 25.63,
+        "end": 26.03
+      }
+    ]
+  },
+  "s3": {
+    "text": "Y sin embargo, si sales de su capital y conduces dos horas hacia el norte, puedes avanzar kilómetros enteros sin cruzarte con un solo ser humano. Lo que sí vas a encontrar son vacas. Doce millones de cabezas de ganado vacuno frente a tres millones y medio de personas: casi cuatro vacas por cada habitante. ¿Por qué un país tan fértil quedó prácticamente vacío? ¿Y cómo esta soledad geográfica define hoy su economía, su política y su destino?",
+    "seconds": 26.638,
+    "words": [
+      {
+        "text": "Y",
+        "start": 0,
+        "end": 0.083
+      },
+      {
+        "text": "sin",
+        "start": 0.083,
+        "end": 0.163
+      },
+      {
+        "text": "embargo",
+        "start": 0.163,
+        "end": 0.803
+      },
+      {
+        "text": "si",
+        "start": 1.123,
+        "end": 1.283
+      },
+      {
+        "text": "sales",
+        "start": 1.283,
+        "end": 1.603
+      },
+      {
+        "text": "de",
+        "start": 1.603,
+        "end": 1.683
+      },
+      {
+        "text": "su",
+        "start": 1.683,
+        "end": 1.763
+      },
+      {
+        "text": "capital",
+        "start": 1.763,
+        "end": 2.403
+      },
+      {
+        "text": "y",
+        "start": 2.563,
+        "end": 2.723
+      },
+      {
+        "text": "conduces",
+        "start": 2.723,
+        "end": 3.203
+      },
+      {
+        "text": "dos",
+        "start": 3.203,
+        "end": 3.363
+      },
+      {
+        "text": "horas",
+        "start": 3.443,
+        "end": 3.603
+      },
+      {
+        "text": "hacia",
+        "start": 3.603,
+        "end": 3.763
+      },
+      {
+        "text": "el",
+        "start": 3.763,
+        "end": 3.843
+      },
+      {
+        "text": "norte",
+        "start": 3.843,
+        "end": 4.243
+      },
+      {
+        "text": "puedes",
+        "start": 4.883,
+        "end": 5.123
+      },
+      {
+        "text": "avanzar",
+        "start": 5.123,
+        "end": 5.523
+      },
+      {
+        "text": "kilómetros",
+        "start": 5.523,
+        "end": 6.083
+      },
+      {
+        "text": "enteros",
+        "start": 6.083,
+        "end": 6.563
+      },
+      {
+        "text": "sin",
+        "start": 6.723,
+        "end": 6.883
+      },
+      {
+        "text": "cruzarte",
+        "start": 6.883,
+        "end": 7.363
+      },
+      {
+        "text": "con",
+        "start": 7.363,
+        "end": 7.523
+      },
+      {
+        "text": "un",
+        "start": 7.523,
+        "end": 7.683
+      },
+      {
+        "text": "solo",
+        "start": 7.683,
+        "end": 7.843
+      },
+      {
+        "text": "ser",
+        "start": 7.843,
+        "end": 8.003
+      },
+      {
+        "text": "humano",
+        "start": 8.003,
+        "end": 8.483
+      },
+      {
+        "text": "Lo",
+        "start": 9.123,
+        "end": 9.283
+      },
+      {
+        "text": "que",
+        "start": 9.283,
+        "end": 9.363
+      },
+      {
+        "text": "sí",
+        "start": 9.363,
+        "end": 9.523
+      },
+      {
+        "text": "vas",
+        "start": 9.523,
+        "end": 9.683
+      },
+      {
+        "text": "a",
+        "start": 9.683,
+        "end": 9.683
+      },
+      {
+        "text": "encontrar",
+        "start": 9.683,
+        "end": 10.083
+      },
+      {
+        "text": "son",
+        "start": 10.083,
+        "end": 10.243
+      },
+      {
+        "text": "vacas",
+        "start": 10.243,
+        "end": 10.723
+      },
+      {
+        "text": "Doce",
+        "start": 11.023,
+        "end": 11.343
+      },
+      {
+        "text": "millones",
+        "start": 11.343,
+        "end": 11.743
+      },
+      {
+        "text": "de",
+        "start": 11.743,
+        "end": 11.823
+      },
+      {
+        "text": "cabezas",
+        "start": 11.823,
+        "end": 12.223
+      },
+      {
+        "text": "de",
+        "start": 12.223,
+        "end": 12.303
+      },
+      {
+        "text": "ganado",
+        "start": 12.303,
+        "end": 12.703
+      },
+      {
+        "text": "vacuno",
+        "start": 12.703,
+        "end": 13.183
+      },
+      {
+        "text": "frente",
+        "start": 13.503,
+        "end": 13.743
+      },
+      {
+        "text": "a",
+        "start": 13.743,
+        "end": 13.823
+      },
+      {
+        "text": "tres",
+        "start": 13.823,
+        "end": 13.983
+      },
+      {
+        "text": "millones",
+        "start": 13.983,
+        "end": 14.463
+      },
+      {
+        "text": "y",
+        "start": 14.463,
+        "end": 14.463
+      },
+      {
+        "text": "medio",
+        "start": 14.463,
+        "end": 14.783
+      },
+      {
+        "text": "de",
+        "start": 14.783,
+        "end": 14.863
+      },
+      {
+        "text": "personas",
+        "start": 14.863,
+        "end": 15.423
+      },
+      {
+        "text": "casi",
+        "start": 15.663,
+        "end": 15.983
+      },
+      {
+        "text": "cuatro",
+        "start": 15.983,
+        "end": 16.303
+      },
+      {
+        "text": "vacas",
+        "start": 16.303,
+        "end": 16.543
+      },
+      {
+        "text": "por",
+        "start": 16.543,
+        "end": 16.703
+      },
+      {
+        "text": "cada",
+        "start": 16.703,
+        "end": 16.943
+      },
+      {
+        "text": "habitante",
+        "start": 16.943,
+        "end": 17.423
+      },
+      {
+        "text": "Por",
+        "start": 18.303,
+        "end": 18.463
+      },
+      {
+        "text": "qué",
+        "start": 18.463,
+        "end": 18.623
+      },
+      {
+        "text": "un",
+        "start": 18.623,
+        "end": 18.703
+      },
+      {
+        "text": "país",
+        "start": 18.703,
+        "end": 18.943
+      },
+      {
+        "text": "tan",
+        "start": 18.943,
+        "end": 19.103
+      },
+      {
+        "text": "fértil",
+        "start": 19.103,
+        "end": 19.743
+      },
+      {
+        "text": "quedó",
+        "start": 19.743,
+        "end": 20.063
+      },
+      {
+        "text": "prácticamente",
+        "start": 20.063,
+        "end": 20.623
+      },
+      {
+        "text": "vacío",
+        "start": 20.623,
+        "end": 21.183
+      },
+      {
+        "text": "Y",
+        "start": 21.743,
+        "end": 21.823
+      },
+      {
+        "text": "cómo",
+        "start": 21.823,
+        "end": 22.143
+      },
+      {
+        "text": "esta",
+        "start": 22.143,
+        "end": 22.303
+      },
+      {
+        "text": "soledad",
+        "start": 22.303,
+        "end": 22.703
+      },
+      {
+        "text": "geográfica",
+        "start": 22.703,
+        "end": 23.343
+      },
+      {
+        "text": "define",
+        "start": 23.663,
+        "end": 24.063
+      },
+      {
+        "text": "hoy",
+        "start": 24.063,
+        "end": 24.223
+      },
+      {
+        "text": "su",
+        "start": 24.223,
+        "end": 24.303
+      },
+      {
+        "text": "economía",
+        "start": 24.303,
+        "end": 24.863
+      },
+      {
+        "text": "su",
+        "start": 25.103,
+        "end": 25.263
+      },
+      {
+        "text": "política",
+        "start": 25.343,
+        "end": 25.743
+      },
+      {
+        "text": "y",
+        "start": 25.743,
+        "end": 25.823
+      },
+      {
+        "text": "su",
+        "start": 25.823,
+        "end": 25.983
+      },
+      {
+        "text": "destino",
+        "start": 25.983,
+        "end": 26.463
+      }
+    ]
+  },
+  "s4": {
+    "text": "Para entender este vacío hay que viajar al siglo diecisiete. Mientras el Imperio Español volcaba millones de personas, ciudades y mano de obra forzada en las minas de plata del Alto Perú o en las plantaciones tropicales, la margen oriental del Río de la Plata fue considerada una tierra sin ningún provecho. No había oro ni plata, ni grandes imperios agrarios que someter. Pero en mil seiscientos once y mil seiscientos diecisiete, el gobernador Hernandarias tomó una decisión que cambiaría la historia: soltó un puñado de vacas y toros en esta pradera infinita. Sin depredadores y con pasto y agua en abundancia, el ganado se multiplicó por millones antes de que existiera una sola ciudad. En Uruguay, literalmente, las vacas llegaron un siglo antes que los colonos.",
+    "seconds": 42.419,
+    "words": [
+      {
+        "text": "Para",
+        "start": 0,
+        "end": 0.079
+      },
+      {
+        "text": "entender",
+        "start": 0.079,
+        "end": 0.399
+      },
+      {
+        "text": "este",
+        "start": 0.399,
+        "end": 0.639
+      },
+      {
+        "text": "vacío",
+        "start": 0.639,
+        "end": 0.959
+      },
+      {
+        "text": "hay",
+        "start": 0.959,
+        "end": 1.039
+      },
+      {
+        "text": "que",
+        "start": 1.039,
+        "end": 1.199
+      },
+      {
+        "text": "viajar",
+        "start": 1.199,
+        "end": 1.519
+      },
+      {
+        "text": "al",
+        "start": 1.519,
+        "end": 1.599
+      },
+      {
+        "text": "siglo",
+        "start": 1.599,
+        "end": 1.839
+      },
+      {
+        "text": "diecisiete",
+        "start": 1.839,
+        "end": 2.479
+      },
+      {
+        "text": "Mientras",
+        "start": 3.041,
+        "end": 3.441
+      },
+      {
+        "text": "el",
+        "start": 3.441,
+        "end": 3.521
+      },
+      {
+        "text": "Imperio",
+        "start": 3.521,
+        "end": 3.761
+      },
+      {
+        "text": "Español",
+        "start": 3.761,
+        "end": 4.161
+      },
+      {
+        "text": "volcaba",
+        "start": 4.161,
+        "end": 4.481
+      },
+      {
+        "text": "millones",
+        "start": 4.481,
+        "end": 4.881
+      },
+      {
+        "text": "de",
+        "start": 4.881,
+        "end": 4.961
+      },
+      {
+        "text": "personas",
+        "start": 4.961,
+        "end": 5.601
+      },
+      {
+        "text": "ciudades",
+        "start": 5.841,
+        "end": 6.401
+      },
+      {
+        "text": "y",
+        "start": 6.401,
+        "end": 6.481
+      },
+      {
+        "text": "mano",
+        "start": 6.481,
+        "end": 6.721
+      },
+      {
+        "text": "de",
+        "start": 6.721,
+        "end": 6.801
+      },
+      {
+        "text": "obra",
+        "start": 6.801,
+        "end": 6.961
+      },
+      {
+        "text": "forzada",
+        "start": 6.961,
+        "end": 7.361
+      },
+      {
+        "text": "en",
+        "start": 7.361,
+        "end": 7.441
+      },
+      {
+        "text": "las",
+        "start": 7.441,
+        "end": 7.521
+      },
+      {
+        "text": "minas",
+        "start": 7.521,
+        "end": 7.761
+      },
+      {
+        "text": "de",
+        "start": 7.761,
+        "end": 7.841
+      },
+      {
+        "text": "plata",
+        "start": 7.841,
+        "end": 8.161
+      },
+      {
+        "text": "del",
+        "start": 8.161,
+        "end": 8.321
+      },
+      {
+        "text": "Alto",
+        "start": 8.321,
+        "end": 8.481
+      },
+      {
+        "text": "Perú",
+        "start": 8.481,
+        "end": 8.961
+      },
+      {
+        "text": "o",
+        "start": 9.201,
+        "end": 9.281
+      },
+      {
+        "text": "en",
+        "start": 9.281,
+        "end": 9.281
+      },
+      {
+        "text": "las",
+        "start": 9.281,
+        "end": 9.441
+      },
+      {
+        "text": "plantaciones",
+        "start": 9.441,
+        "end": 9.921
+      },
+      {
+        "text": "tropicales",
+        "start": 9.921,
+        "end": 10.641
+      },
+      {
+        "text": "la",
+        "start": 10.961,
+        "end": 11.121
+      },
+      {
+        "text": "margen",
+        "start": 11.121,
+        "end": 11.441
+      },
+      {
+        "text": "oriental",
+        "start": 11.441,
+        "end": 11.841
+      },
+      {
+        "text": "del",
+        "start": 11.841,
+        "end": 12.001
+      },
+      {
+        "text": "Río",
+        "start": 12.001,
+        "end": 12.161
+      },
+      {
+        "text": "de",
+        "start": 12.161,
+        "end": 12.241
+      },
+      {
+        "text": "la",
+        "start": 12.241,
+        "end": 12.401
+      },
+      {
+        "text": "Plata",
+        "start": 12.401,
+        "end": 12.721
+      },
+      {
+        "text": "fue",
+        "start": 12.721,
+        "end": 12.801
+      },
+      {
+        "text": "considerada",
+        "start": 12.801,
+        "end": 13.361
+      },
+      {
+        "text": "una",
+        "start": 13.361,
+        "end": 13.601
+      },
+      {
+        "text": "tierra",
+        "start": 13.601,
+        "end": 13.841
+      },
+      {
+        "text": "sin",
+        "start": 13.841,
+        "end": 14.001
+      },
+      {
+        "text": "ningún",
+        "start": 14.001,
+        "end": 14.321
+      },
+      {
+        "text": "provecho",
+        "start": 14.321,
+        "end": 14.881
+      },
+      {
+        "text": "No",
+        "start": 15.3,
+        "end": 15.38
+      },
+      {
+        "text": "había",
+        "start": 15.38,
+        "end": 15.62
+      },
+      {
+        "text": "oro",
+        "start": 15.62,
+        "end": 15.94
+      },
+      {
+        "text": "ni",
+        "start": 15.94,
+        "end": 16.02
+      },
+      {
+        "text": "plata",
+        "start": 16.02,
+        "end": 16.5
+      },
+      {
+        "text": "ni",
+        "start": 16.74,
+        "end": 16.9
+      },
+      {
+        "text": "grandes",
+        "start": 16.9,
+        "end": 17.22
+      },
+      {
+        "text": "imperios",
+        "start": 17.22,
+        "end": 17.62
+      },
+      {
+        "text": "agrarios",
+        "start": 17.62,
+        "end": 17.94
+      },
+      {
+        "text": "que",
+        "start": 17.94,
+        "end": 18.02
+      },
+      {
+        "text": "someter",
+        "start": 18.02,
+        "end": 18.66
+      },
+      {
+        "text": "Pero",
+        "start": 19.14,
+        "end": 19.38
+      },
+      {
+        "text": "en",
+        "start": 19.38,
+        "end": 19.46
+      },
+      {
+        "text": "mil",
+        "start": 19.46,
+        "end": 19.54
+      },
+      {
+        "text": "seiscientos",
+        "start": 19.54,
+        "end": 20.1
+      },
+      {
+        "text": "once",
+        "start": 20.1,
+        "end": 20.58
+      },
+      {
+        "text": "y",
+        "start": 20.66,
+        "end": 20.74
+      },
+      {
+        "text": "mil",
+        "start": 20.74,
+        "end": 20.98
+      },
+      {
+        "text": "seiscientos",
+        "start": 20.98,
+        "end": 21.38
+      },
+      {
+        "text": "diecisiete",
+        "start": 21.38,
+        "end": 22.18
+      },
+      {
+        "text": "el",
+        "start": 22.42,
+        "end": 22.58
+      },
+      {
+        "text": "gobernador",
+        "start": 22.58,
+        "end": 23.14
+      },
+      {
+        "text": "Hernandarias",
+        "start": 23.14,
+        "end": 23.62
+      },
+      {
+        "text": "tomó",
+        "start": 23.62,
+        "end": 23.86
+      },
+      {
+        "text": "una",
+        "start": 23.86,
+        "end": 23.94
+      },
+      {
+        "text": "decisión",
+        "start": 23.94,
+        "end": 24.58
+      },
+      {
+        "text": "que",
+        "start": 24.74,
+        "end": 24.9
+      },
+      {
+        "text": "cambiaría",
+        "start": 24.9,
+        "end": 25.3
+      },
+      {
+        "text": "la",
+        "start": 25.3,
+        "end": 25.38
+      },
+      {
+        "text": "historia",
+        "start": 25.38,
+        "end": 25.86
+      },
+      {
+        "text": "soltó",
+        "start": 26.34,
+        "end": 26.66
+      },
+      {
+        "text": "un",
+        "start": 26.66,
+        "end": 26.82
+      },
+      {
+        "text": "puñado",
+        "start": 26.82,
+        "end": 27.22
+      },
+      {
+        "text": "de",
+        "start": 27.22,
+        "end": 27.3
+      },
+      {
+        "text": "vacas",
+        "start": 27.3,
+        "end": 27.62
+      },
+      {
+        "text": "y",
+        "start": 27.62,
+        "end": 27.7
+      },
+      {
+        "text": "toros",
+        "start": 27.7,
+        "end": 28.02
+      },
+      {
+        "text": "en",
+        "start": 28.02,
+        "end": 28.1
+      },
+      {
+        "text": "esta",
+        "start": 28.1,
+        "end": 28.34
+      },
+      {
+        "text": "pradera",
+        "start": 28.34,
+        "end": 28.66
+      },
+      {
+        "text": "infinita",
+        "start": 28.66,
+        "end": 29.22
+      },
+      {
+        "text": "Sin",
+        "start": 29.685,
+        "end": 29.925
+      },
+      {
+        "text": "depredadores",
+        "start": 29.925,
+        "end": 30.805
+      },
+      {
+        "text": "y",
+        "start": 30.885,
+        "end": 30.965
+      },
+      {
+        "text": "con",
+        "start": 30.965,
+        "end": 31.125
+      },
+      {
+        "text": "pasto",
+        "start": 31.125,
+        "end": 31.445
+      },
+      {
+        "text": "y",
+        "start": 31.445,
+        "end": 31.525
+      },
+      {
+        "text": "agua",
+        "start": 31.525,
+        "end": 31.685
+      },
+      {
+        "text": "en",
+        "start": 31.685,
+        "end": 31.765
+      },
+      {
+        "text": "abundancia",
+        "start": 31.765,
+        "end": 32.405
+      },
+      {
+        "text": "el",
+        "start": 32.965,
+        "end": 33.125
+      },
+      {
+        "text": "ganado",
+        "start": 33.125,
+        "end": 33.445
+      },
+      {
+        "text": "se",
+        "start": 33.445,
+        "end": 33.525
+      },
+      {
+        "text": "multiplicó",
+        "start": 33.525,
+        "end": 34.085
+      },
+      {
+        "text": "por",
+        "start": 34.085,
+        "end": 34.245
+      },
+      {
+        "text": "millones",
+        "start": 34.245,
+        "end": 34.885
+      },
+      {
+        "text": "antes",
+        "start": 35.125,
+        "end": 35.445
+      },
+      {
+        "text": "de",
+        "start": 35.445,
+        "end": 35.525
+      },
+      {
+        "text": "que",
+        "start": 35.525,
+        "end": 35.605
+      },
+      {
+        "text": "existiera",
+        "start": 35.605,
+        "end": 36.165
+      },
+      {
+        "text": "una",
+        "start": 36.165,
+        "end": 36.325
+      },
+      {
+        "text": "sola",
+        "start": 36.325,
+        "end": 36.565
+      },
+      {
+        "text": "ciudad",
+        "start": 36.565,
+        "end": 36.965
+      },
+      {
+        "text": "En",
+        "start": 37.845,
+        "end": 38.005
+      },
+      {
+        "text": "Uruguay",
+        "start": 38.005,
+        "end": 38.565
+      },
+      {
+        "text": "literalmente",
+        "start": 38.885,
+        "end": 39.765
+      },
+      {
+        "text": "las",
+        "start": 40.005,
+        "end": 40.165
+      },
+      {
+        "text": "vacas",
+        "start": 40.165,
+        "end": 40.485
+      },
+      {
+        "text": "llegaron",
+        "start": 40.485,
+        "end": 40.805
+      },
+      {
+        "text": "un",
+        "start": 40.805,
+        "end": 40.885
+      },
+      {
+        "text": "siglo",
+        "start": 40.885,
+        "end": 41.205
+      },
+      {
+        "text": "antes",
+        "start": 41.205,
+        "end": 41.525
+      },
+      {
+        "text": "que",
+        "start": 41.525,
+        "end": 41.605
+      },
+      {
+        "text": "los",
+        "start": 41.605,
+        "end": 41.685
+      },
+      {
+        "text": "colonos",
+        "start": 41.685,
+        "end": 42.245
+      }
+    ]
+  },
+  "s5": {
+    "text": "Durante más de dos siglos, la Banda Oriental fue una frontera abierta de ganado cimarrón, gauchos a caballo y estancias sin límites precisos. Parecía que el campo iría poblándose a medida que creciera el comercio de cuero y tasajo. Pero en la década de mil ochocientos setenta llegó una revolución silenciosa y brutal: el alambramiento de los campos. Impulsados por el gobierno de Lorenzo Latorre y la Asociación Rural, los estancieros cercaron millones de hectáreas con alambre de acero importado de Gran Bretaña. De pronto, para cuidar miles de vacas y ovejas ya no hacían falta decenas de peones y puesteros recorriendo la llanura: bastaban unos pocos alambres, potreros fijos y un capataz.",
+    "seconds": 38.253,
+    "words": [
+      {
+        "text": "Durante",
+        "start": 0,
+        "end": 0.233
+      },
+      {
+        "text": "más",
+        "start": 0.233,
+        "end": 0.393
+      },
+      {
+        "text": "de",
+        "start": 0.393,
+        "end": 0.473
+      },
+      {
+        "text": "dos",
+        "start": 0.473,
+        "end": 0.713
+      },
+      {
+        "text": "siglos",
+        "start": 0.713,
+        "end": 1.193
+      },
+      {
+        "text": "la",
+        "start": 1.593,
+        "end": 1.673
+      },
+      {
+        "text": "Banda",
+        "start": 1.673,
+        "end": 1.913
+      },
+      {
+        "text": "Oriental",
+        "start": 1.913,
+        "end": 2.233
+      },
+      {
+        "text": "fue",
+        "start": 2.313,
+        "end": 2.473
+      },
+      {
+        "text": "una",
+        "start": 2.473,
+        "end": 2.553
+      },
+      {
+        "text": "frontera",
+        "start": 2.553,
+        "end": 2.953
+      },
+      {
+        "text": "abierta",
+        "start": 2.953,
+        "end": 3.353
+      },
+      {
+        "text": "de",
+        "start": 3.353,
+        "end": 3.353
+      },
+      {
+        "text": "ganado",
+        "start": 3.353,
+        "end": 3.673
+      },
+      {
+        "text": "cimarrón",
+        "start": 3.673,
+        "end": 4.313
+      },
+      {
+        "text": "gauchos",
+        "start": 4.873,
+        "end": 5.273
+      },
+      {
+        "text": "a",
+        "start": 5.273,
+        "end": 5.273
+      },
+      {
+        "text": "caballo",
+        "start": 5.273,
+        "end": 5.913
+      },
+      {
+        "text": "y",
+        "start": 6.073,
+        "end": 6.153
+      },
+      {
+        "text": "estancias",
+        "start": 6.153,
+        "end": 6.633
+      },
+      {
+        "text": "sin",
+        "start": 6.633,
+        "end": 6.713
+      },
+      {
+        "text": "límites",
+        "start": 6.713,
+        "end": 7.113
+      },
+      {
+        "text": "precisos",
+        "start": 7.113,
+        "end": 7.753
+      },
+      {
+        "text": "Parecía",
+        "start": 8.313,
+        "end": 8.713
+      },
+      {
+        "text": "que",
+        "start": 8.713,
+        "end": 8.793
+      },
+      {
+        "text": "el",
+        "start": 8.793,
+        "end": 8.873
+      },
+      {
+        "text": "campo",
+        "start": 8.873,
+        "end": 9.113
+      },
+      {
+        "text": "iría",
+        "start": 9.113,
+        "end": 9.353
+      },
+      {
+        "text": "poblándose",
+        "start": 9.433,
+        "end": 9.913
+      },
+      {
+        "text": "a",
+        "start": 9.913,
+        "end": 9.913
+      },
+      {
+        "text": "medida",
+        "start": 9.913,
+        "end": 10.313
+      },
+      {
+        "text": "que",
+        "start": 10.313,
+        "end": 10.393
+      },
+      {
+        "text": "creciera",
+        "start": 10.393,
+        "end": 10.713
+      },
+      {
+        "text": "el",
+        "start": 10.713,
+        "end": 10.793
+      },
+      {
+        "text": "comercio",
+        "start": 10.793,
+        "end": 11.113
+      },
+      {
+        "text": "de",
+        "start": 11.193,
+        "end": 11.273
+      },
+      {
+        "text": "cuero",
+        "start": 11.273,
+        "end": 11.673
+      },
+      {
+        "text": "y",
+        "start": 11.833,
+        "end": 11.833
+      },
+      {
+        "text": "tasajo",
+        "start": 11.833,
+        "end": 12.473
+      },
+      {
+        "text": "Pero",
+        "start": 12.898,
+        "end": 12.978
+      },
+      {
+        "text": "en",
+        "start": 13.058,
+        "end": 13.138
+      },
+      {
+        "text": "la",
+        "start": 13.138,
+        "end": 13.138
+      },
+      {
+        "text": "década",
+        "start": 13.138,
+        "end": 13.458
+      },
+      {
+        "text": "de",
+        "start": 13.458,
+        "end": 13.538
+      },
+      {
+        "text": "mil",
+        "start": 13.538,
+        "end": 13.698
+      },
+      {
+        "text": "ochocientos",
+        "start": 13.698,
+        "end": 14.258
+      },
+      {
+        "text": "setenta",
+        "start": 14.258,
+        "end": 14.738
+      },
+      {
+        "text": "llegó",
+        "start": 15.058,
+        "end": 15.218
+      },
+      {
+        "text": "una",
+        "start": 15.218,
+        "end": 15.378
+      },
+      {
+        "text": "revolución",
+        "start": 15.378,
+        "end": 15.858
+      },
+      {
+        "text": "silenciosa",
+        "start": 15.858,
+        "end": 16.338
+      },
+      {
+        "text": "y",
+        "start": 16.338,
+        "end": 16.418
+      },
+      {
+        "text": "brutal",
+        "start": 16.418,
+        "end": 16.898
+      },
+      {
+        "text": "el",
+        "start": 17.378,
+        "end": 17.538
+      },
+      {
+        "text": "alambramiento",
+        "start": 17.538,
+        "end": 18.098
+      },
+      {
+        "text": "de",
+        "start": 18.098,
+        "end": 18.178
+      },
+      {
+        "text": "los",
+        "start": 18.178,
+        "end": 18.338
+      },
+      {
+        "text": "campos",
+        "start": 18.338,
+        "end": 18.818
+      },
+      {
+        "text": "Impulsados",
+        "start": 19.378,
+        "end": 19.858
+      },
+      {
+        "text": "por",
+        "start": 19.858,
+        "end": 20.018
+      },
+      {
+        "text": "el",
+        "start": 20.018,
+        "end": 20.018
+      },
+      {
+        "text": "gobierno",
+        "start": 20.018,
+        "end": 20.418
+      },
+      {
+        "text": "de",
+        "start": 20.418,
+        "end": 20.498
+      },
+      {
+        "text": "Lorenzo",
+        "start": 20.498,
+        "end": 20.818
+      },
+      {
+        "text": "Latorre",
+        "start": 20.818,
+        "end": 21.378
+      },
+      {
+        "text": "y",
+        "start": 21.538,
+        "end": 21.618
+      },
+      {
+        "text": "la",
+        "start": 21.618,
+        "end": 21.698
+      },
+      {
+        "text": "Asociación",
+        "start": 21.698,
+        "end": 22.098
+      },
+      {
+        "text": "Rural",
+        "start": 22.098,
+        "end": 22.818
+      },
+      {
+        "text": "los",
+        "start": 22.978,
+        "end": 23.138
+      },
+      {
+        "text": "estancieros",
+        "start": 23.138,
+        "end": 23.698
+      },
+      {
+        "text": "cercaron",
+        "start": 23.698,
+        "end": 24.098
+      },
+      {
+        "text": "millones",
+        "start": 24.098,
+        "end": 24.418
+      },
+      {
+        "text": "de",
+        "start": 24.418,
+        "end": 24.578
+      },
+      {
+        "text": "hectáreas",
+        "start": 24.578,
+        "end": 25.058
+      },
+      {
+        "text": "con",
+        "start": 25.298,
+        "end": 25.378
+      },
+      {
+        "text": "alambre",
+        "start": 25.378,
+        "end": 25.778
+      },
+      {
+        "text": "de",
+        "start": 25.778,
+        "end": 25.778
+      },
+      {
+        "text": "acero",
+        "start": 25.778,
+        "end": 26.018
+      },
+      {
+        "text": "importado",
+        "start": 26.018,
+        "end": 26.498
+      },
+      {
+        "text": "de",
+        "start": 26.498,
+        "end": 26.578
+      },
+      {
+        "text": "Gran",
+        "start": 26.578,
+        "end": 26.818
+      },
+      {
+        "text": "Bretaña",
+        "start": 26.818,
+        "end": 27.298
+      },
+      {
+        "text": "De",
+        "start": 27.79,
+        "end": 27.87
+      },
+      {
+        "text": "pronto",
+        "start": 27.87,
+        "end": 28.43
+      },
+      {
+        "text": "para",
+        "start": 28.83,
+        "end": 28.99
+      },
+      {
+        "text": "cuidar",
+        "start": 28.99,
+        "end": 29.31
+      },
+      {
+        "text": "miles",
+        "start": 29.31,
+        "end": 29.55
+      },
+      {
+        "text": "de",
+        "start": 29.55,
+        "end": 29.63
+      },
+      {
+        "text": "vacas",
+        "start": 29.63,
+        "end": 29.95
+      },
+      {
+        "text": "y",
+        "start": 29.95,
+        "end": 29.95
+      },
+      {
+        "text": "ovejas",
+        "start": 29.95,
+        "end": 30.43
+      },
+      {
+        "text": "ya",
+        "start": 30.67,
+        "end": 30.83
+      },
+      {
+        "text": "no",
+        "start": 30.83,
+        "end": 30.91
+      },
+      {
+        "text": "hacían",
+        "start": 30.91,
+        "end": 31.15
+      },
+      {
+        "text": "falta",
+        "start": 31.15,
+        "end": 31.39
+      },
+      {
+        "text": "decenas",
+        "start": 31.39,
+        "end": 31.79
+      },
+      {
+        "text": "de",
+        "start": 31.79,
+        "end": 31.87
+      },
+      {
+        "text": "peones",
+        "start": 31.87,
+        "end": 32.27
+      },
+      {
+        "text": "y",
+        "start": 32.27,
+        "end": 32.27
+      },
+      {
+        "text": "puesteros",
+        "start": 32.27,
+        "end": 32.91
+      },
+      {
+        "text": "recorriendo",
+        "start": 33.07,
+        "end": 33.47
+      },
+      {
+        "text": "la",
+        "start": 33.47,
+        "end": 33.55
+      },
+      {
+        "text": "llanura",
+        "start": 33.55,
+        "end": 34.03
+      },
+      {
+        "text": "bastaban",
+        "start": 34.67,
+        "end": 35.07
+      },
+      {
+        "text": "unos",
+        "start": 35.07,
+        "end": 35.31
+      },
+      {
+        "text": "pocos",
+        "start": 35.31,
+        "end": 35.55
+      },
+      {
+        "text": "alambres",
+        "start": 35.55,
+        "end": 36.11
+      },
+      {
+        "text": "potreros",
+        "start": 36.27,
+        "end": 36.75
+      },
+      {
+        "text": "fijos",
+        "start": 36.75,
+        "end": 37.15
+      },
+      {
+        "text": "y",
+        "start": 37.23,
+        "end": 37.39
+      },
+      {
+        "text": "un",
+        "start": 37.39,
+        "end": 37.47
+      },
+      {
+        "text": "capataz",
+        "start": 37.47,
+        "end": 37.95
+      }
+    ]
+  },
+  "s6": {
+    "text": "La consecuencia demográfica fue sísmica. Decenas de miles de jornaleros, agregados y familias rurales quedaron de la noche a la mañana sin tierra y sin trabajo. Fueron expulsados de las estancias hacia los márgenes de los caminos, formando rancheríos precarios que la época llamó cruelmente pueblos de ratas, o empujados directamente hacia las vías del ferrocarril rumbo al puerto de Montevideo. Mientras Estados Unidos o Canadá colonizaban su interior repartiendo pequeñas granjas familiares que fundaban miles de pueblos, Uruguay consolidó el latifundio ganadero extensivo: un modelo capaz de generar enorme riqueza exportadora con el campo casi vacío.",
+    "seconds": 36.337,
+    "words": [
+      {
+        "text": "La",
+        "start": 0,
+        "end": 0.084
+      },
+      {
+        "text": "consecuencia",
+        "start": 0.084,
+        "end": 0.644
+      },
+      {
+        "text": "demográfica",
+        "start": 0.644,
+        "end": 1.204
+      },
+      {
+        "text": "fue",
+        "start": 1.204,
+        "end": 1.364
+      },
+      {
+        "text": "sísmica",
+        "start": 1.364,
+        "end": 1.924
+      },
+      {
+        "text": "Decenas",
+        "start": 2.644,
+        "end": 3.124
+      },
+      {
+        "text": "de",
+        "start": 3.124,
+        "end": 3.204
+      },
+      {
+        "text": "miles",
+        "start": 3.204,
+        "end": 3.524
+      },
+      {
+        "text": "de",
+        "start": 3.524,
+        "end": 3.604
+      },
+      {
+        "text": "jornaleros",
+        "start": 3.604,
+        "end": 4.244
+      },
+      {
+        "text": "agregados",
+        "start": 4.644,
+        "end": 5.284
+      },
+      {
+        "text": "y",
+        "start": 5.284,
+        "end": 5.284
+      },
+      {
+        "text": "familias",
+        "start": 5.284,
+        "end": 5.684
+      },
+      {
+        "text": "rurales",
+        "start": 5.684,
+        "end": 6.244
+      },
+      {
+        "text": "quedaron",
+        "start": 6.244,
+        "end": 6.644
+      },
+      {
+        "text": "de",
+        "start": 6.644,
+        "end": 6.724
+      },
+      {
+        "text": "la",
+        "start": 6.724,
+        "end": 6.804
+      },
+      {
+        "text": "noche",
+        "start": 6.804,
+        "end": 7.044
+      },
+      {
+        "text": "a",
+        "start": 7.044,
+        "end": 7.044
+      },
+      {
+        "text": "la",
+        "start": 7.044,
+        "end": 7.204
+      },
+      {
+        "text": "mañana",
+        "start": 7.204,
+        "end": 7.604
+      },
+      {
+        "text": "sin",
+        "start": 7.924,
+        "end": 8.164
+      },
+      {
+        "text": "tierra",
+        "start": 8.164,
+        "end": 8.404
+      },
+      {
+        "text": "y",
+        "start": 8.404,
+        "end": 8.484
+      },
+      {
+        "text": "sin",
+        "start": 8.484,
+        "end": 8.644
+      },
+      {
+        "text": "trabajo",
+        "start": 8.644,
+        "end": 9.204
+      },
+      {
+        "text": "Fueron",
+        "start": 9.592,
+        "end": 9.832
+      },
+      {
+        "text": "expulsados",
+        "start": 9.832,
+        "end": 10.392
+      },
+      {
+        "text": "de",
+        "start": 10.392,
+        "end": 10.472
+      },
+      {
+        "text": "las",
+        "start": 10.472,
+        "end": 10.552
+      },
+      {
+        "text": "estancias",
+        "start": 10.552,
+        "end": 11.032
+      },
+      {
+        "text": "hacia",
+        "start": 11.032,
+        "end": 11.272
+      },
+      {
+        "text": "los",
+        "start": 11.272,
+        "end": 11.352
+      },
+      {
+        "text": "márgenes",
+        "start": 11.352,
+        "end": 11.752
+      },
+      {
+        "text": "de",
+        "start": 11.752,
+        "end": 11.832
+      },
+      {
+        "text": "los",
+        "start": 11.832,
+        "end": 11.992
+      },
+      {
+        "text": "caminos",
+        "start": 11.992,
+        "end": 12.472
+      },
+      {
+        "text": "formando",
+        "start": 13.032,
+        "end": 13.432
+      },
+      {
+        "text": "rancheríos",
+        "start": 13.432,
+        "end": 13.992
+      },
+      {
+        "text": "precarios",
+        "start": 13.992,
+        "end": 14.552
+      },
+      {
+        "text": "que",
+        "start": 14.792,
+        "end": 14.952
+      },
+      {
+        "text": "la",
+        "start": 14.952,
+        "end": 15.032
+      },
+      {
+        "text": "época",
+        "start": 15.032,
+        "end": 15.352
+      },
+      {
+        "text": "llamó",
+        "start": 15.352,
+        "end": 15.672
+      },
+      {
+        "text": "cruelmente",
+        "start": 15.672,
+        "end": 16.232
+      },
+      {
+        "text": "pueblos",
+        "start": 16.232,
+        "end": 16.552
+      },
+      {
+        "text": "de",
+        "start": 16.552,
+        "end": 16.632
+      },
+      {
+        "text": "ratas",
+        "start": 16.632,
+        "end": 17.112
+      },
+      {
+        "text": "o",
+        "start": 17.352,
+        "end": 17.512
+      },
+      {
+        "text": "empujados",
+        "start": 17.512,
+        "end": 17.912
+      },
+      {
+        "text": "directamente",
+        "start": 17.912,
+        "end": 18.472
+      },
+      {
+        "text": "hacia",
+        "start": 18.472,
+        "end": 18.712
+      },
+      {
+        "text": "las",
+        "start": 18.712,
+        "end": 18.872
+      },
+      {
+        "text": "vías",
+        "start": 18.872,
+        "end": 19.112
+      },
+      {
+        "text": "del",
+        "start": 19.112,
+        "end": 19.192
+      },
+      {
+        "text": "ferrocarril",
+        "start": 19.192,
+        "end": 19.832
+      },
+      {
+        "text": "rumbo",
+        "start": 20.072,
+        "end": 20.312
+      },
+      {
+        "text": "al",
+        "start": 20.312,
+        "end": 20.392
+      },
+      {
+        "text": "puerto",
+        "start": 20.392,
+        "end": 20.712
+      },
+      {
+        "text": "de",
+        "start": 20.712,
+        "end": 21.352
+      },
+      {
+        "text": "Montevideo",
+        "start": 21.352,
+        "end": 21.432
+      },
+      {
+        "text": "Mientras",
+        "start": 21.885,
+        "end": 22.205
+      },
+      {
+        "text": "Estados",
+        "start": 22.205,
+        "end": 22.605
+      },
+      {
+        "text": "Unidos",
+        "start": 22.605,
+        "end": 22.925
+      },
+      {
+        "text": "o",
+        "start": 22.925,
+        "end": 22.925
+      },
+      {
+        "text": "Canadá",
+        "start": 23.005,
+        "end": 23.485
+      },
+      {
+        "text": "colonizaban",
+        "start": 23.805,
+        "end": 24.365
+      },
+      {
+        "text": "su",
+        "start": 24.365,
+        "end": 24.445
+      },
+      {
+        "text": "interior",
+        "start": 24.445,
+        "end": 24.845
+      },
+      {
+        "text": "repartiendo",
+        "start": 24.845,
+        "end": 25.325
+      },
+      {
+        "text": "pequeñas",
+        "start": 25.405,
+        "end": 25.805
+      },
+      {
+        "text": "granjas",
+        "start": 25.805,
+        "end": 26.125
+      },
+      {
+        "text": "familiares",
+        "start": 26.125,
+        "end": 26.765
+      },
+      {
+        "text": "que",
+        "start": 27.085,
+        "end": 27.165
+      },
+      {
+        "text": "fundaban",
+        "start": 27.165,
+        "end": 27.645
+      },
+      {
+        "text": "miles",
+        "start": 27.645,
+        "end": 27.885
+      },
+      {
+        "text": "de",
+        "start": 27.885,
+        "end": 27.965
+      },
+      {
+        "text": "pueblos",
+        "start": 27.965,
+        "end": 28.525
+      },
+      {
+        "text": "Uruguay",
+        "start": 28.685,
+        "end": 29.165
+      },
+      {
+        "text": "consolidó",
+        "start": 29.165,
+        "end": 29.725
+      },
+      {
+        "text": "el",
+        "start": 29.725,
+        "end": 29.805
+      },
+      {
+        "text": "latifundio",
+        "start": 29.805,
+        "end": 30.285
+      },
+      {
+        "text": "ganadero",
+        "start": 30.285,
+        "end": 30.685
+      },
+      {
+        "text": "extensivo",
+        "start": 30.685,
+        "end": 31.325
+      },
+      {
+        "text": "un",
+        "start": 31.885,
+        "end": 32.045
+      },
+      {
+        "text": "modelo",
+        "start": 32.045,
+        "end": 32.365
+      },
+      {
+        "text": "capaz",
+        "start": 32.445,
+        "end": 32.685
+      },
+      {
+        "text": "de",
+        "start": 32.685,
+        "end": 32.845
+      },
+      {
+        "text": "generar",
+        "start": 32.845,
+        "end": 33.245
+      },
+      {
+        "text": "enorme",
+        "start": 33.325,
+        "end": 33.645
+      },
+      {
+        "text": "riqueza",
+        "start": 33.725,
+        "end": 34.045
+      },
+      {
+        "text": "exportadora",
+        "start": 34.045,
+        "end": 34.765
+      },
+      {
+        "text": "con",
+        "start": 34.925,
+        "end": 35.085
+      },
+      {
+        "text": "el",
+        "start": 35.085,
+        "end": 35.165
+      },
+      {
+        "text": "campo",
+        "start": 35.165,
+        "end": 35.485
+      },
+      {
+        "text": "casi",
+        "start": 35.485,
+        "end": 35.725
+      },
+      {
+        "text": "vacío",
+        "start": 35.725,
+        "end": 36.205
+      }
+    ]
+  },
+  "s7": {
+    "text": "Ese embudo histórico desembocó en una de las macrocefalias urbanas más extremas del planeta. Todos los ferrocarriles, las rutas, los frigoríficos, los bancos, la universidad y el aparato estatal convergieron en un solo punto: la bahía de Montevideo. A esto se sumó la gran ola de inmigración europea de italianos y españoles entre finales del siglo diecinueve y principios del veinte. Al encontrar el campo ya repartido y cerrado por el alambre, los inmigrantes se quedaron en la capital. Hoy, el área metropolitana de Montevideo concentra cerca del sesenta por ciento de toda la población del país en apenas una fracción mínima del territorio.",
+    "seconds": 36.471,
+    "words": [
+      {
+        "text": "Ese",
+        "start": 0,
+        "end": 0.167
+      },
+      {
+        "text": "embudo",
+        "start": 0.167,
+        "end": 0.487
+      },
+      {
+        "text": "histórico",
+        "start": 0.487,
+        "end": 0.967
+      },
+      {
+        "text": "desembocó",
+        "start": 0.967,
+        "end": 1.447
+      },
+      {
+        "text": "en",
+        "start": 1.447,
+        "end": 1.607
+      },
+      {
+        "text": "una",
+        "start": 1.607,
+        "end": 1.767
+      },
+      {
+        "text": "de",
+        "start": 1.767,
+        "end": 1.847
+      },
+      {
+        "text": "las",
+        "start": 1.847,
+        "end": 1.927
+      },
+      {
+        "text": "macrocefalias",
+        "start": 1.927,
+        "end": 2.727
+      },
+      {
+        "text": "urbanas",
+        "start": 2.727,
+        "end": 3.047
+      },
+      {
+        "text": "más",
+        "start": 3.047,
+        "end": 3.207
+      },
+      {
+        "text": "extremas",
+        "start": 3.207,
+        "end": 3.687
+      },
+      {
+        "text": "del",
+        "start": 3.687,
+        "end": 3.767
+      },
+      {
+        "text": "planeta",
+        "start": 3.767,
+        "end": 4.327
+      },
+      {
+        "text": "Todos",
+        "start": 4.967,
+        "end": 5.127
+      },
+      {
+        "text": "los",
+        "start": 5.127,
+        "end": 5.287
+      },
+      {
+        "text": "ferrocarriles",
+        "start": 5.287,
+        "end": 6.087
+      },
+      {
+        "text": "las",
+        "start": 6.407,
+        "end": 6.647
+      },
+      {
+        "text": "rutas",
+        "start": 6.647,
+        "end": 7.127
+      },
+      {
+        "text": "los",
+        "start": 7.447,
+        "end": 7.607
+      },
+      {
+        "text": "frigoríficos",
+        "start": 7.607,
+        "end": 8.407
+      },
+      {
+        "text": "los",
+        "start": 8.807,
+        "end": 8.887
+      },
+      {
+        "text": "bancos",
+        "start": 8.887,
+        "end": 9.447
+      },
+      {
+        "text": "la",
+        "start": 9.607,
+        "end": 9.767
+      },
+      {
+        "text": "universidad",
+        "start": 9.767,
+        "end": 10.487
+      },
+      {
+        "text": "y",
+        "start": 10.727,
+        "end": 10.887
+      },
+      {
+        "text": "el",
+        "start": 10.887,
+        "end": 10.887
+      },
+      {
+        "text": "aparato",
+        "start": 10.887,
+        "end": 11.207
+      },
+      {
+        "text": "estatal",
+        "start": 11.207,
+        "end": 11.607
+      },
+      {
+        "text": "convergieron",
+        "start": 11.607,
+        "end": 12.247
+      },
+      {
+        "text": "en",
+        "start": 12.247,
+        "end": 12.327
+      },
+      {
+        "text": "un",
+        "start": 12.327,
+        "end": 12.407
+      },
+      {
+        "text": "solo",
+        "start": 12.407,
+        "end": 12.727
+      },
+      {
+        "text": "punto",
+        "start": 12.727,
+        "end": 13.127
+      },
+      {
+        "text": "la",
+        "start": 13.607,
+        "end": 13.767
+      },
+      {
+        "text": "bahía",
+        "start": 13.767,
+        "end": 14.007
+      },
+      {
+        "text": "de",
+        "start": 14.007,
+        "end": 14.087
+      },
+      {
+        "text": "Montevideo",
+        "start": 14.087,
+        "end": 14.807
+      },
+      {
+        "text": "A",
+        "start": 15.309,
+        "end": 15.469
+      },
+      {
+        "text": "esto",
+        "start": 15.469,
+        "end": 15.629
+      },
+      {
+        "text": "se",
+        "start": 15.629,
+        "end": 15.789
+      },
+      {
+        "text": "sumó",
+        "start": 15.789,
+        "end": 16.029
+      },
+      {
+        "text": "la",
+        "start": 16.029,
+        "end": 16.109
+      },
+      {
+        "text": "gran",
+        "start": 16.109,
+        "end": 16.349
+      },
+      {
+        "text": "ola",
+        "start": 16.349,
+        "end": 16.509
+      },
+      {
+        "text": "de",
+        "start": 16.509,
+        "end": 16.589
+      },
+      {
+        "text": "inmigración",
+        "start": 16.589,
+        "end": 17.069
+      },
+      {
+        "text": "europea",
+        "start": 17.069,
+        "end": 17.469
+      },
+      {
+        "text": "de",
+        "start": 17.469,
+        "end": 17.549
+      },
+      {
+        "text": "italianos",
+        "start": 17.549,
+        "end": 18.029
+      },
+      {
+        "text": "y",
+        "start": 18.029,
+        "end": 18.029
+      },
+      {
+        "text": "españoles",
+        "start": 18.029,
+        "end": 18.669
+      },
+      {
+        "text": "entre",
+        "start": 18.989,
+        "end": 19.229
+      },
+      {
+        "text": "finales",
+        "start": 19.229,
+        "end": 19.549
+      },
+      {
+        "text": "del",
+        "start": 19.549,
+        "end": 19.709
+      },
+      {
+        "text": "siglo",
+        "start": 19.709,
+        "end": 19.949
+      },
+      {
+        "text": "diecinueve",
+        "start": 19.949,
+        "end": 20.749
+      },
+      {
+        "text": "y",
+        "start": 20.749,
+        "end": 20.909
+      },
+      {
+        "text": "principios",
+        "start": 20.909,
+        "end": 21.309
+      },
+      {
+        "text": "del",
+        "start": 21.389,
+        "end": 21.469
+      },
+      {
+        "text": "veinte",
+        "start": 21.469,
+        "end": 21.869
+      },
+      {
+        "text": "Al",
+        "start": 22.749,
+        "end": 22.829
+      },
+      {
+        "text": "encontrar",
+        "start": 22.829,
+        "end": 23.229
+      },
+      {
+        "text": "el",
+        "start": 23.229,
+        "end": 23.389
+      },
+      {
+        "text": "campo",
+        "start": 23.389,
+        "end": 23.629
+      },
+      {
+        "text": "ya",
+        "start": 23.629,
+        "end": 23.789
+      },
+      {
+        "text": "repartido",
+        "start": 23.789,
+        "end": 24.349
+      },
+      {
+        "text": "y",
+        "start": 24.349,
+        "end": 24.349
+      },
+      {
+        "text": "cerrado",
+        "start": 24.349,
+        "end": 24.749
+      },
+      {
+        "text": "por",
+        "start": 24.749,
+        "end": 24.829
+      },
+      {
+        "text": "el",
+        "start": 24.829,
+        "end": 24.989
+      },
+      {
+        "text": "alambre",
+        "start": 24.989,
+        "end": 25.469
+      },
+      {
+        "text": "los",
+        "start": 25.869,
+        "end": 26.029
+      },
+      {
+        "text": "inmigrantes",
+        "start": 26.029,
+        "end": 26.509
+      },
+      {
+        "text": "se",
+        "start": 26.509,
+        "end": 26.669
+      },
+      {
+        "text": "quedaron",
+        "start": 26.669,
+        "end": 26.989
+      },
+      {
+        "text": "en",
+        "start": 26.989,
+        "end": 27.069
+      },
+      {
+        "text": "la",
+        "start": 27.069,
+        "end": 27.149
+      },
+      {
+        "text": "capital",
+        "start": 27.149,
+        "end": 27.709
+      },
+      {
+        "text": "Hoy",
+        "start": 28.233,
+        "end": 28.553
+      },
+      {
+        "text": "el",
+        "start": 29.033,
+        "end": 29.113
+      },
+      {
+        "text": "área",
+        "start": 29.113,
+        "end": 29.273
+      },
+      {
+        "text": "metropolitana",
+        "start": 29.273,
+        "end": 29.993
+      },
+      {
+        "text": "de",
+        "start": 29.993,
+        "end": 29.993
+      },
+      {
+        "text": "Montevideo",
+        "start": 30.073,
+        "end": 30.713
+      },
+      {
+        "text": "concentra",
+        "start": 30.953,
+        "end": 31.433
+      },
+      {
+        "text": "cerca",
+        "start": 31.433,
+        "end": 31.753
+      },
+      {
+        "text": "del",
+        "start": 31.753,
+        "end": 31.833
+      },
+      {
+        "text": "sesenta",
+        "start": 31.833,
+        "end": 32.233
+      },
+      {
+        "text": "por",
+        "start": 32.233,
+        "end": 32.393
+      },
+      {
+        "text": "ciento",
+        "start": 32.393,
+        "end": 32.713
+      },
+      {
+        "text": "de",
+        "start": 32.713,
+        "end": 32.793
+      },
+      {
+        "text": "toda",
+        "start": 32.793,
+        "end": 32.953
+      },
+      {
+        "text": "la",
+        "start": 32.953,
+        "end": 33.033
+      },
+      {
+        "text": "población",
+        "start": 33.033,
+        "end": 33.433
+      },
+      {
+        "text": "del",
+        "start": 33.433,
+        "end": 33.593
+      },
+      {
+        "text": "país",
+        "start": 33.593,
+        "end": 33.993
+      },
+      {
+        "text": "en",
+        "start": 34.233,
+        "end": 34.393
+      },
+      {
+        "text": "apenas",
+        "start": 34.393,
+        "end": 34.713
+      },
+      {
+        "text": "una",
+        "start": 34.713,
+        "end": 34.873
+      },
+      {
+        "text": "fracción",
+        "start": 34.873,
+        "end": 35.273
+      },
+      {
+        "text": "mínima",
+        "start": 35.273,
+        "end": 35.593
+      },
+      {
+        "text": "del",
+        "start": 35.593,
+        "end": 35.673
+      },
+      {
+        "text": "territorio",
+        "start": 35.673,
+        "end": 36.393
+      }
+    ]
+  },
+  "s8": {
+    "text": "Si apagamos las luces y miramos a Uruguay desde el espacio de noche, el contraste es sobrecogedor. Un foco incandescente brilla sobre el Río de la Plata, mientras el noventa y cinco por ciento restante del mapa se sumerge en una penumbra casi absoluta. En departamentos del centro y norte como Flores, Durazno o Treinta y Tres, la densidad cae a menos de cinco habitantes por kilómetro cuadrado, cifras propias de la Patagonia o de Siberia. Y aquí surge la gran paradoja cultural uruguaya: el noventa y seis por ciento de los uruguayos vive en ciudades, pero el motor exportador y el mito fundacional de la nación siguen estando en la pradera.",
+    "seconds": 34.537,
+    "words": [
+      {
+        "text": "Si",
+        "start": 0,
+        "end": 0.086
+      },
+      {
+        "text": "apagamos",
+        "start": 0.086,
+        "end": 0.566
+      },
+      {
+        "text": "las",
+        "start": 0.566,
+        "end": 0.646
+      },
+      {
+        "text": "luces",
+        "start": 0.646,
+        "end": 1.046
+      },
+      {
+        "text": "y",
+        "start": 1.046,
+        "end": 1.126
+      },
+      {
+        "text": "miramos",
+        "start": 1.126,
+        "end": 1.526
+      },
+      {
+        "text": "a",
+        "start": 1.526,
+        "end": 1.526
+      },
+      {
+        "text": "Uruguay",
+        "start": 1.526,
+        "end": 1.926
+      },
+      {
+        "text": "desde",
+        "start": 1.926,
+        "end": 2.166
+      },
+      {
+        "text": "el",
+        "start": 2.166,
+        "end": 2.166
+      },
+      {
+        "text": "espacio",
+        "start": 2.166,
+        "end": 2.566
+      },
+      {
+        "text": "de",
+        "start": 2.566,
+        "end": 2.726
+      },
+      {
+        "text": "noche",
+        "start": 2.726,
+        "end": 3.126
+      },
+      {
+        "text": "el",
+        "start": 3.526,
+        "end": 3.686
+      },
+      {
+        "text": "contraste",
+        "start": 3.686,
+        "end": 4.166
+      },
+      {
+        "text": "es",
+        "start": 4.166,
+        "end": 4.246
+      },
+      {
+        "text": "sobrecogedor",
+        "start": 4.246,
+        "end": 4.966
+      },
+      {
+        "text": "Un",
+        "start": 5.526,
+        "end": 5.686
+      },
+      {
+        "text": "foco",
+        "start": 5.686,
+        "end": 5.926
+      },
+      {
+        "text": "incandescente",
+        "start": 5.926,
+        "end": 6.646
+      },
+      {
+        "text": "brilla",
+        "start": 6.646,
+        "end": 6.966
+      },
+      {
+        "text": "sobre",
+        "start": 6.966,
+        "end": 7.206
+      },
+      {
+        "text": "el",
+        "start": 7.206,
+        "end": 7.286
+      },
+      {
+        "text": "Río",
+        "start": 7.286,
+        "end": 7.446
+      },
+      {
+        "text": "de",
+        "start": 7.446,
+        "end": 7.526
+      },
+      {
+        "text": "la",
+        "start": 7.526,
+        "end": 7.686
+      },
+      {
+        "text": "Plata",
+        "start": 7.686,
+        "end": 8.086
+      },
+      {
+        "text": "mientras",
+        "start": 8.566,
+        "end": 8.886
+      },
+      {
+        "text": "el",
+        "start": 8.886,
+        "end": 8.966
+      },
+      {
+        "text": "noventa",
+        "start": 8.966,
+        "end": 9.286
+      },
+      {
+        "text": "y",
+        "start": 9.286,
+        "end": 9.286
+      },
+      {
+        "text": "cinco",
+        "start": 9.286,
+        "end": 9.606
+      },
+      {
+        "text": "por",
+        "start": 9.606,
+        "end": 9.766
+      },
+      {
+        "text": "ciento",
+        "start": 9.766,
+        "end": 10.006
+      },
+      {
+        "text": "restante",
+        "start": 10.006,
+        "end": 10.486
+      },
+      {
+        "text": "del",
+        "start": 10.486,
+        "end": 10.566
+      },
+      {
+        "text": "mapa",
+        "start": 10.566,
+        "end": 10.966
+      },
+      {
+        "text": "se",
+        "start": 11.206,
+        "end": 11.366
+      },
+      {
+        "text": "sumerge",
+        "start": 11.366,
+        "end": 11.766
+      },
+      {
+        "text": "en",
+        "start": 11.766,
+        "end": 11.846
+      },
+      {
+        "text": "una",
+        "start": 11.846,
+        "end": 12.086
+      },
+      {
+        "text": "penumbra",
+        "start": 12.086,
+        "end": 12.486
+      },
+      {
+        "text": "casi",
+        "start": 12.486,
+        "end": 12.726
+      },
+      {
+        "text": "absoluta",
+        "start": 12.726,
+        "end": 13.286
+      },
+      {
+        "text": "En",
+        "start": 13.707,
+        "end": 13.787
+      },
+      {
+        "text": "departamentos",
+        "start": 13.787,
+        "end": 14.427
+      },
+      {
+        "text": "del",
+        "start": 14.507,
+        "end": 14.587
+      },
+      {
+        "text": "centro",
+        "start": 14.587,
+        "end": 14.907
+      },
+      {
+        "text": "y",
+        "start": 14.907,
+        "end": 14.987
+      },
+      {
+        "text": "norte",
+        "start": 14.987,
+        "end": 15.307
+      },
+      {
+        "text": "como",
+        "start": 15.307,
+        "end": 15.547
+      },
+      {
+        "text": "Flores",
+        "start": 15.547,
+        "end": 16.107
+      },
+      {
+        "text": "Durazno",
+        "start": 16.347,
+        "end": 16.747
+      },
+      {
+        "text": "o",
+        "start": 16.747,
+        "end": 16.827
+      },
+      {
+        "text": "Treinta",
+        "start": 16.827,
+        "end": 17.067
+      },
+      {
+        "text": "y",
+        "start": 17.067,
+        "end": 17.147
+      },
+      {
+        "text": "Tres",
+        "start": 17.147,
+        "end": 17.467
+      },
+      {
+        "text": "la",
+        "start": 17.947,
+        "end": 18.027
+      },
+      {
+        "text": "densidad",
+        "start": 18.027,
+        "end": 18.427
+      },
+      {
+        "text": "cae",
+        "start": 18.507,
+        "end": 18.667
+      },
+      {
+        "text": "a",
+        "start": 18.667,
+        "end": 18.747
+      },
+      {
+        "text": "menos",
+        "start": 18.747,
+        "end": 18.987
+      },
+      {
+        "text": "de",
+        "start": 18.987,
+        "end": 19.067
+      },
+      {
+        "text": "cinco",
+        "start": 19.067,
+        "end": 19.387
+      },
+      {
+        "text": "habitantes",
+        "start": 19.387,
+        "end": 19.867
+      },
+      {
+        "text": "por",
+        "start": 19.867,
+        "end": 20.027
+      },
+      {
+        "text": "kilómetro",
+        "start": 20.027,
+        "end": 20.427
+      },
+      {
+        "text": "cuadrado",
+        "start": 20.427,
+        "end": 21.147
+      },
+      {
+        "text": "cifras",
+        "start": 21.307,
+        "end": 21.627
+      },
+      {
+        "text": "propias",
+        "start": 21.627,
+        "end": 21.947
+      },
+      {
+        "text": "de",
+        "start": 21.947,
+        "end": 22.027
+      },
+      {
+        "text": "la",
+        "start": 22.027,
+        "end": 22.187
+      },
+      {
+        "text": "Patagonia",
+        "start": 22.187,
+        "end": 22.747
+      },
+      {
+        "text": "o",
+        "start": 22.747,
+        "end": 22.827
+      },
+      {
+        "text": "de",
+        "start": 22.827,
+        "end": 22.907
+      },
+      {
+        "text": "Siberia",
+        "start": 22.907,
+        "end": 23.467
+      },
+      {
+        "text": "Y",
+        "start": 24.037,
+        "end": 24.117
+      },
+      {
+        "text": "aquí",
+        "start": 24.117,
+        "end": 24.277
+      },
+      {
+        "text": "surge",
+        "start": 24.277,
+        "end": 24.597
+      },
+      {
+        "text": "la",
+        "start": 24.597,
+        "end": 24.757
+      },
+      {
+        "text": "gran",
+        "start": 24.757,
+        "end": 24.997
+      },
+      {
+        "text": "paradoja",
+        "start": 24.997,
+        "end": 25.397
+      },
+      {
+        "text": "cultural",
+        "start": 25.397,
+        "end": 25.797
+      },
+      {
+        "text": "uruguaya",
+        "start": 25.797,
+        "end": 26.437
+      },
+      {
+        "text": "el",
+        "start": 26.917,
+        "end": 26.997
+      },
+      {
+        "text": "noventa",
+        "start": 26.997,
+        "end": 27.317
+      },
+      {
+        "text": "y",
+        "start": 27.317,
+        "end": 27.317
+      },
+      {
+        "text": "seis",
+        "start": 27.317,
+        "end": 27.557
+      },
+      {
+        "text": "por",
+        "start": 27.557,
+        "end": 27.717
+      },
+      {
+        "text": "ciento",
+        "start": 27.717,
+        "end": 28.037
+      },
+      {
+        "text": "de",
+        "start": 28.037,
+        "end": 28.037
+      },
+      {
+        "text": "los",
+        "start": 28.037,
+        "end": 28.197
+      },
+      {
+        "text": "uruguayos",
+        "start": 28.197,
+        "end": 28.597
+      },
+      {
+        "text": "vive",
+        "start": 28.677,
+        "end": 28.917
+      },
+      {
+        "text": "en",
+        "start": 28.917,
+        "end": 28.997
+      },
+      {
+        "text": "ciudades",
+        "start": 28.997,
+        "end": 29.557
+      },
+      {
+        "text": "pero",
+        "start": 29.957,
+        "end": 30.117
+      },
+      {
+        "text": "el",
+        "start": 30.117,
+        "end": 30.117
+      },
+      {
+        "text": "motor",
+        "start": 30.117,
+        "end": 30.437
+      },
+      {
+        "text": "exportador",
+        "start": 30.437,
+        "end": 31.157
+      },
+      {
+        "text": "y",
+        "start": 31.317,
+        "end": 31.397
+      },
+      {
+        "text": "el",
+        "start": 31.397,
+        "end": 31.477
+      },
+      {
+        "text": "mito",
+        "start": 31.477,
+        "end": 31.717
+      },
+      {
+        "text": "fundacional",
+        "start": 31.717,
+        "end": 32.277
+      },
+      {
+        "text": "de",
+        "start": 32.277,
+        "end": 32.357
+      },
+      {
+        "text": "la",
+        "start": 32.357,
+        "end": 32.437
+      },
+      {
+        "text": "nación",
+        "start": 32.437,
+        "end": 32.917
+      },
+      {
+        "text": "siguen",
+        "start": 33.077,
+        "end": 33.397
+      },
+      {
+        "text": "estando",
+        "start": 33.397,
+        "end": 33.717
+      },
+      {
+        "text": "en",
+        "start": 33.717,
+        "end": 33.797
+      },
+      {
+        "text": "la",
+        "start": 33.797,
+        "end": 33.877
+      },
+      {
+        "text": "pradera",
+        "start": 33.877,
+        "end": 34.357
+      }
+    ]
+  },
+  "s9": {
+    "text": "Esta asimetría tiene un precio oculto gigantesco: el costo de la infraestructura per cápita. Para que la soja, la celulosa, la carne y los lácteos salgan de cada rincón del interior, y para que cada pueblo tenga carreteras asfaltadas, fibra óptica, agua potable, hospitales y escuelas públicas, el Estado tiene que tender miles de kilómetros de redes físicas a través de tierras casi deshabitadas. En un país denso, un kilómetro de carretera o de tendido eléctrico es financiado por miles de contribuyentes. En el interior de Uruguay, ese mismo kilómetro recae sobre las espaldas de muy pocas personas.",
+    "seconds": 34.298,
+    "words": [
+      {
+        "text": "Esta",
+        "start": 0,
+        "end": 0.167
+      },
+      {
+        "text": "asimetría",
+        "start": 0.167,
+        "end": 0.647
+      },
+      {
+        "text": "tiene",
+        "start": 0.647,
+        "end": 0.807
+      },
+      {
+        "text": "un",
+        "start": 0.807,
+        "end": 0.967
+      },
+      {
+        "text": "precio",
+        "start": 0.967,
+        "end": 1.207
+      },
+      {
+        "text": "oculto",
+        "start": 1.207,
+        "end": 1.527
+      },
+      {
+        "text": "gigantesco",
+        "start": 1.527,
+        "end": 2.327
+      },
+      {
+        "text": "el",
+        "start": 2.807,
+        "end": 2.967
+      },
+      {
+        "text": "costo",
+        "start": 2.967,
+        "end": 3.207
+      },
+      {
+        "text": "de",
+        "start": 3.207,
+        "end": 3.287
+      },
+      {
+        "text": "la",
+        "start": 3.287,
+        "end": 3.367
+      },
+      {
+        "text": "infraestructura",
+        "start": 3.367,
+        "end": 4.087
+      },
+      {
+        "text": "per",
+        "start": 4.087,
+        "end": 4.247
+      },
+      {
+        "text": "cápita",
+        "start": 4.247,
+        "end": 4.647
+      },
+      {
+        "text": "Para",
+        "start": 5.207,
+        "end": 5.367
+      },
+      {
+        "text": "que",
+        "start": 5.367,
+        "end": 5.447
+      },
+      {
+        "text": "la",
+        "start": 5.447,
+        "end": 5.607
+      },
+      {
+        "text": "soja",
+        "start": 5.607,
+        "end": 6.087
+      },
+      {
+        "text": "la",
+        "start": 6.487,
+        "end": 6.567
+      },
+      {
+        "text": "celulosa",
+        "start": 6.567,
+        "end": 7.287
+      },
+      {
+        "text": "la",
+        "start": 7.527,
+        "end": 7.687
+      },
+      {
+        "text": "carne",
+        "start": 7.687,
+        "end": 7.927
+      },
+      {
+        "text": "y",
+        "start": 7.927,
+        "end": 7.927
+      },
+      {
+        "text": "los",
+        "start": 7.927,
+        "end": 8.167
+      },
+      {
+        "text": "lácteos",
+        "start": 8.167,
+        "end": 8.647
+      },
+      {
+        "text": "salgan",
+        "start": 8.887,
+        "end": 9.207
+      },
+      {
+        "text": "de",
+        "start": 9.207,
+        "end": 9.367
+      },
+      {
+        "text": "cada",
+        "start": 9.367,
+        "end": 9.527
+      },
+      {
+        "text": "rincón",
+        "start": 9.527,
+        "end": 9.847
+      },
+      {
+        "text": "del",
+        "start": 9.847,
+        "end": 10.007
+      },
+      {
+        "text": "interior",
+        "start": 10.007,
+        "end": 10.567
+      },
+      {
+        "text": "y",
+        "start": 11.047,
+        "end": 11.207
+      },
+      {
+        "text": "para",
+        "start": 11.207,
+        "end": 11.367
+      },
+      {
+        "text": "que",
+        "start": 11.367,
+        "end": 11.527
+      },
+      {
+        "text": "cada",
+        "start": 11.527,
+        "end": 11.767
+      },
+      {
+        "text": "pueblo",
+        "start": 11.767,
+        "end": 12.087
+      },
+      {
+        "text": "tenga",
+        "start": 12.087,
+        "end": 12.327
+      },
+      {
+        "text": "carreteras",
+        "start": 12.327,
+        "end": 12.807
+      },
+      {
+        "text": "asfaltadas",
+        "start": 12.807,
+        "end": 13.527
+      },
+      {
+        "text": "fibra",
+        "start": 13.847,
+        "end": 14.087
+      },
+      {
+        "text": "óptica",
+        "start": 14.087,
+        "end": 14.647
+      },
+      {
+        "text": "agua",
+        "start": 14.967,
+        "end": 15.207
+      },
+      {
+        "text": "potable",
+        "start": 15.207,
+        "end": 15.847
+      },
+      {
+        "text": "hospitales",
+        "start": 16.167,
+        "end": 16.727
+      },
+      {
+        "text": "y",
+        "start": 16.807,
+        "end": 16.807
+      },
+      {
+        "text": "escuelas",
+        "start": 16.807,
+        "end": 17.127
+      },
+      {
+        "text": "públicas",
+        "start": 17.127,
+        "end": 17.687
+      },
+      {
+        "text": "el",
+        "start": 17.855,
+        "end": 17.935
+      },
+      {
+        "text": "Estado",
+        "start": 17.935,
+        "end": 18.335
+      },
+      {
+        "text": "tiene",
+        "start": 18.335,
+        "end": 18.495
+      },
+      {
+        "text": "que",
+        "start": 18.495,
+        "end": 18.575
+      },
+      {
+        "text": "tender",
+        "start": 18.575,
+        "end": 18.895
+      },
+      {
+        "text": "miles",
+        "start": 18.895,
+        "end": 19.215
+      },
+      {
+        "text": "de",
+        "start": 19.215,
+        "end": 19.295
+      },
+      {
+        "text": "kilómetros",
+        "start": 19.295,
+        "end": 19.775
+      },
+      {
+        "text": "de",
+        "start": 19.775,
+        "end": 19.855
+      },
+      {
+        "text": "redes",
+        "start": 19.855,
+        "end": 20.175
+      },
+      {
+        "text": "físicas",
+        "start": 20.175,
+        "end": 20.655
+      },
+      {
+        "text": "a",
+        "start": 20.975,
+        "end": 20.975
+      },
+      {
+        "text": "través",
+        "start": 20.975,
+        "end": 21.295
+      },
+      {
+        "text": "de",
+        "start": 21.295,
+        "end": 21.375
+      },
+      {
+        "text": "tierras",
+        "start": 21.375,
+        "end": 21.775
+      },
+      {
+        "text": "casi",
+        "start": 21.775,
+        "end": 22.015
+      },
+      {
+        "text": "deshabitadas",
+        "start": 22.015,
+        "end": 22.735
+      },
+      {
+        "text": "En",
+        "start": 23.135,
+        "end": 23.295
+      },
+      {
+        "text": "un",
+        "start": 23.295,
+        "end": 23.375
+      },
+      {
+        "text": "país",
+        "start": 23.375,
+        "end": 23.615
+      },
+      {
+        "text": "denso",
+        "start": 23.615,
+        "end": 24.095
+      },
+      {
+        "text": "un",
+        "start": 24.495,
+        "end": 24.655
+      },
+      {
+        "text": "kilómetro",
+        "start": 24.655,
+        "end": 25.055
+      },
+      {
+        "text": "de",
+        "start": 25.055,
+        "end": 25.135
+      },
+      {
+        "text": "carretera",
+        "start": 25.135,
+        "end": 25.695
+      },
+      {
+        "text": "o",
+        "start": 25.695,
+        "end": 25.775
+      },
+      {
+        "text": "de",
+        "start": 25.775,
+        "end": 25.855
+      },
+      {
+        "text": "tendido",
+        "start": 25.855,
+        "end": 26.175
+      },
+      {
+        "text": "eléctrico",
+        "start": 26.175,
+        "end": 26.815
+      },
+      {
+        "text": "es",
+        "start": 26.975,
+        "end": 27.135
+      },
+      {
+        "text": "financiado",
+        "start": 27.135,
+        "end": 27.615
+      },
+      {
+        "text": "por",
+        "start": 27.615,
+        "end": 27.775
+      },
+      {
+        "text": "miles",
+        "start": 27.775,
+        "end": 28.015
+      },
+      {
+        "text": "de",
+        "start": 28.015,
+        "end": 28.095
+      },
+      {
+        "text": "contribuyentes",
+        "start": 28.175,
+        "end": 28.975
+      },
+      {
+        "text": "En",
+        "start": 29.47,
+        "end": 29.55
+      },
+      {
+        "text": "el",
+        "start": 29.55,
+        "end": 29.63
+      },
+      {
+        "text": "interior",
+        "start": 29.63,
+        "end": 30.03
+      },
+      {
+        "text": "de",
+        "start": 30.03,
+        "end": 30.11
+      },
+      {
+        "text": "Uruguay",
+        "start": 30.11,
+        "end": 30.51
+      },
+      {
+        "text": "ese",
+        "start": 30.99,
+        "end": 31.15
+      },
+      {
+        "text": "mismo",
+        "start": 31.15,
+        "end": 31.39
+      },
+      {
+        "text": "kilómetro",
+        "start": 31.39,
+        "end": 31.87
+      },
+      {
+        "text": "recae",
+        "start": 31.87,
+        "end": 32.27
+      },
+      {
+        "text": "sobre",
+        "start": 32.27,
+        "end": 32.43
+      },
+      {
+        "text": "las",
+        "start": 32.43,
+        "end": 32.67
+      },
+      {
+        "text": "espaldas",
+        "start": 32.67,
+        "end": 33.07
+      },
+      {
+        "text": "de",
+        "start": 33.07,
+        "end": 33.15
+      },
+      {
+        "text": "muy",
+        "start": 33.15,
+        "end": 33.31
+      },
+      {
+        "text": "pocas",
+        "start": 33.31,
+        "end": 33.55
+      },
+      {
+        "text": "personas",
+        "start": 33.55,
+        "end": 34.11
+      }
+    ]
+  },
+  "s10": {
+    "text": "Y eso nos lleva directo al bolsillo de la gente: ¿por qué Uruguay es consistentemente uno de los países más caros de toda América Latina? La respuesta, en gran medida, es un problema de escala. Un mercado interno de tres millones y medio de consumidores es diminuto para los estándares industriales modernos. Producir localmente manufacturas tiene costos unitarios altísimos porque no hay volumen para diluir los costos fijos. E importar tampoco es barato: cuando un barco llega con productos, el mercado es tan pequeño que suele quedar en manos de unos pocos importadores y distribuidores con poca competencia, sumado a altos impuestos al consumo y combustibles para sostener aquel Estado e infraestructura. Cualquier emprendimiento local que triunfa en Uruguay choca contra el techo de su propio mercado en cuestión de meses: o nace pensando en exportar al mundo, o se estanca.",
+    "seconds": 47.843,
+    "words": [
+      {
+        "text": "Y",
+        "start": 0,
+        "end": -0.001
+      },
+      {
+        "text": "eso",
+        "start": 0,
+        "end": 0.159
+      },
+      {
+        "text": "nos",
+        "start": 0.159,
+        "end": 0.399
+      },
+      {
+        "text": "lleva",
+        "start": 0.399,
+        "end": 0.559
+      },
+      {
+        "text": "directo",
+        "start": 0.559,
+        "end": 0.959
+      },
+      {
+        "text": "al",
+        "start": 0.959,
+        "end": 0.959
+      },
+      {
+        "text": "bolsillo",
+        "start": 0.959,
+        "end": 1.359
+      },
+      {
+        "text": "de",
+        "start": 1.359,
+        "end": 1.439
+      },
+      {
+        "text": "la",
+        "start": 1.439,
+        "end": 1.519
+      },
+      {
+        "text": "gente",
+        "start": 1.519,
+        "end": 1.999
+      },
+      {
+        "text": "por",
+        "start": 2.559,
+        "end": 2.799
+      },
+      {
+        "text": "qué",
+        "start": 2.799,
+        "end": 2.879
+      },
+      {
+        "text": "Uruguay",
+        "start": 2.879,
+        "end": 3.359
+      },
+      {
+        "text": "es",
+        "start": 3.359,
+        "end": 3.439
+      },
+      {
+        "text": "consistentemente",
+        "start": 3.439,
+        "end": 4.319
+      },
+      {
+        "text": "uno",
+        "start": 4.319,
+        "end": 4.479
+      },
+      {
+        "text": "de",
+        "start": 4.479,
+        "end": 4.559
+      },
+      {
+        "text": "los",
+        "start": 4.559,
+        "end": 4.719
+      },
+      {
+        "text": "países",
+        "start": 4.719,
+        "end": 5.119
+      },
+      {
+        "text": "más",
+        "start": 5.119,
+        "end": 5.279
+      },
+      {
+        "text": "caros",
+        "start": 5.279,
+        "end": 5.599
+      },
+      {
+        "text": "de",
+        "start": 5.599,
+        "end": 5.759
+      },
+      {
+        "text": "toda",
+        "start": 5.759,
+        "end": 5.919
+      },
+      {
+        "text": "América",
+        "start": 5.919,
+        "end": 6.239
+      },
+      {
+        "text": "Latina",
+        "start": 6.239,
+        "end": 6.719
+      },
+      {
+        "text": "La",
+        "start": 7.359,
+        "end": 7.519
+      },
+      {
+        "text": "respuesta",
+        "start": 7.519,
+        "end": 8.159
+      },
+      {
+        "text": "en",
+        "start": 8.239,
+        "end": 8.399
+      },
+      {
+        "text": "gran",
+        "start": 8.399,
+        "end": 8.559
+      },
+      {
+        "text": "medida",
+        "start": 8.559,
+        "end": 9.039
+      },
+      {
+        "text": "es",
+        "start": 9.279,
+        "end": 9.439
+      },
+      {
+        "text": "un",
+        "start": 9.439,
+        "end": 9.519
+      },
+      {
+        "text": "problema",
+        "start": 9.519,
+        "end": 9.919
+      },
+      {
+        "text": "de",
+        "start": 9.919,
+        "end": 9.999
+      },
+      {
+        "text": "escala",
+        "start": 9.999,
+        "end": 10.479
+      },
+      {
+        "text": "Un",
+        "start": 10.922,
+        "end": 11.082
+      },
+      {
+        "text": "mercado",
+        "start": 11.082,
+        "end": 11.402
+      },
+      {
+        "text": "interno",
+        "start": 11.402,
+        "end": 11.882
+      },
+      {
+        "text": "de",
+        "start": 11.882,
+        "end": 11.962
+      },
+      {
+        "text": "tres",
+        "start": 11.962,
+        "end": 12.202
+      },
+      {
+        "text": "millones",
+        "start": 12.202,
+        "end": 12.602
+      },
+      {
+        "text": "y",
+        "start": 12.602,
+        "end": 12.682
+      },
+      {
+        "text": "medio",
+        "start": 12.682,
+        "end": 12.922
+      },
+      {
+        "text": "de",
+        "start": 12.922,
+        "end": 13.002
+      },
+      {
+        "text": "consumidores",
+        "start": 13.002,
+        "end": 13.802
+      },
+      {
+        "text": "es",
+        "start": 14.042,
+        "end": 14.202
+      },
+      {
+        "text": "diminuto",
+        "start": 14.202,
+        "end": 14.602
+      },
+      {
+        "text": "para",
+        "start": 14.602,
+        "end": 14.842
+      },
+      {
+        "text": "los",
+        "start": 14.842,
+        "end": 15.002
+      },
+      {
+        "text": "estándares",
+        "start": 15.002,
+        "end": 15.482
+      },
+      {
+        "text": "industriales",
+        "start": 15.482,
+        "end": 16.042
+      },
+      {
+        "text": "modernos",
+        "start": 16.042,
+        "end": 16.602
+      },
+      {
+        "text": "Producir",
+        "start": 17.242,
+        "end": 17.562
+      },
+      {
+        "text": "localmente",
+        "start": 17.562,
+        "end": 18.122
+      },
+      {
+        "text": "manufacturas",
+        "start": 18.122,
+        "end": 18.762
+      },
+      {
+        "text": "tiene",
+        "start": 18.762,
+        "end": 18.922
+      },
+      {
+        "text": "costos",
+        "start": 18.922,
+        "end": 19.322
+      },
+      {
+        "text": "unitarios",
+        "start": 19.322,
+        "end": 19.722
+      },
+      {
+        "text": "altísimos",
+        "start": 19.722,
+        "end": 20.362
+      },
+      {
+        "text": "porque",
+        "start": 20.682,
+        "end": 20.922
+      },
+      {
+        "text": "no",
+        "start": 20.922,
+        "end": 21.002
+      },
+      {
+        "text": "hay",
+        "start": 21.002,
+        "end": 21.082
+      },
+      {
+        "text": "volumen",
+        "start": 21.082,
+        "end": 21.482
+      },
+      {
+        "text": "para",
+        "start": 21.482,
+        "end": 21.642
+      },
+      {
+        "text": "diluir",
+        "start": 21.642,
+        "end": 21.962
+      },
+      {
+        "text": "los",
+        "start": 21.962,
+        "end": 22.122
+      },
+      {
+        "text": "costos",
+        "start": 22.122,
+        "end": 22.442
+      },
+      {
+        "text": "fijos",
+        "start": 22.442,
+        "end": 22.922
+      },
+      {
+        "text": "E",
+        "start": 23.407,
+        "end": 23.487
+      },
+      {
+        "text": "importar",
+        "start": 23.487,
+        "end": 23.967
+      },
+      {
+        "text": "tampoco",
+        "start": 23.967,
+        "end": 24.287
+      },
+      {
+        "text": "es",
+        "start": 24.287,
+        "end": 24.367
+      },
+      {
+        "text": "barato",
+        "start": 24.367,
+        "end": 24.927
+      },
+      {
+        "text": "cuando",
+        "start": 25.327,
+        "end": 25.567
+      },
+      {
+        "text": "un",
+        "start": 25.567,
+        "end": 25.647
+      },
+      {
+        "text": "barco",
+        "start": 25.647,
+        "end": 25.887
+      },
+      {
+        "text": "llega",
+        "start": 25.887,
+        "end": 26.207
+      },
+      {
+        "text": "con",
+        "start": 26.207,
+        "end": 26.367
+      },
+      {
+        "text": "productos",
+        "start": 26.367,
+        "end": 26.927
+      },
+      {
+        "text": "el",
+        "start": 27.247,
+        "end": 27.327
+      },
+      {
+        "text": "mercado",
+        "start": 27.327,
+        "end": 27.647
+      },
+      {
+        "text": "es",
+        "start": 27.647,
+        "end": 27.727
+      },
+      {
+        "text": "tan",
+        "start": 27.727,
+        "end": 27.887
+      },
+      {
+        "text": "pequeño",
+        "start": 27.887,
+        "end": 28.287
+      },
+      {
+        "text": "que",
+        "start": 28.287,
+        "end": 28.447
+      },
+      {
+        "text": "suele",
+        "start": 28.447,
+        "end": 28.687
+      },
+      {
+        "text": "quedar",
+        "start": 28.687,
+        "end": 28.927
+      },
+      {
+        "text": "en",
+        "start": 28.927,
+        "end": 29.007
+      },
+      {
+        "text": "manos",
+        "start": 29.007,
+        "end": 29.247
+      },
+      {
+        "text": "de",
+        "start": 29.247,
+        "end": 29.327
+      },
+      {
+        "text": "unos",
+        "start": 29.327,
+        "end": 29.567
+      },
+      {
+        "text": "pocos",
+        "start": 29.567,
+        "end": 29.887
+      },
+      {
+        "text": "importadores",
+        "start": 29.887,
+        "end": 30.607
+      },
+      {
+        "text": "y",
+        "start": 30.767,
+        "end": 30.847
+      },
+      {
+        "text": "distribuidores",
+        "start": 30.847,
+        "end": 31.647
+      },
+      {
+        "text": "con",
+        "start": 31.887,
+        "end": 32.047
+      },
+      {
+        "text": "poca",
+        "start": 32.047,
+        "end": 32.287
+      },
+      {
+        "text": "competencia",
+        "start": 32.287,
+        "end": 32.927
+      },
+      {
+        "text": "sumado",
+        "start": 33.407,
+        "end": 33.807
+      },
+      {
+        "text": "a",
+        "start": 33.807,
+        "end": 33.887
+      },
+      {
+        "text": "altos",
+        "start": 33.887,
+        "end": 34.047
+      },
+      {
+        "text": "impuestos",
+        "start": 34.047,
+        "end": 34.527
+      },
+      {
+        "text": "al",
+        "start": 34.527,
+        "end": 34.607
+      },
+      {
+        "text": "consumo",
+        "start": 34.607,
+        "end": 35.087
+      },
+      {
+        "text": "y",
+        "start": 35.247,
+        "end": 35.407
+      },
+      {
+        "text": "combustibles",
+        "start": 35.407,
+        "end": 35.967
+      },
+      {
+        "text": "para",
+        "start": 35.967,
+        "end": 36.127
+      },
+      {
+        "text": "sostener",
+        "start": 36.127,
+        "end": 36.607
+      },
+      {
+        "text": "aquel",
+        "start": 36.607,
+        "end": 36.847
+      },
+      {
+        "text": "Estado",
+        "start": 36.847,
+        "end": 37.247
+      },
+      {
+        "text": "e",
+        "start": 37.487,
+        "end": 37.567
+      },
+      {
+        "text": "infraestructura",
+        "start": 37.567,
+        "end": 38.367
+      },
+      {
+        "text": "Cualquier",
+        "start": 38.912,
+        "end": 39.312
+      },
+      {
+        "text": "emprendimiento",
+        "start": 39.312,
+        "end": 39.952
+      },
+      {
+        "text": "local",
+        "start": 39.952,
+        "end": 40.272
+      },
+      {
+        "text": "que",
+        "start": 40.272,
+        "end": 40.432
+      },
+      {
+        "text": "triunfa",
+        "start": 40.432,
+        "end": 40.752
+      },
+      {
+        "text": "en",
+        "start": 40.752,
+        "end": 40.832
+      },
+      {
+        "text": "Uruguay",
+        "start": 40.832,
+        "end": 41.232
+      },
+      {
+        "text": "choca",
+        "start": 41.552,
+        "end": 41.872
+      },
+      {
+        "text": "contra",
+        "start": 41.872,
+        "end": 42.112
+      },
+      {
+        "text": "el",
+        "start": 42.112,
+        "end": 42.192
+      },
+      {
+        "text": "techo",
+        "start": 42.192,
+        "end": 42.512
+      },
+      {
+        "text": "de",
+        "start": 42.512,
+        "end": 42.592
+      },
+      {
+        "text": "su",
+        "start": 42.592,
+        "end": 42.752
+      },
+      {
+        "text": "propio",
+        "start": 42.752,
+        "end": 42.992
+      },
+      {
+        "text": "mercado",
+        "start": 42.992,
+        "end": 43.392
+      },
+      {
+        "text": "en",
+        "start": 43.392,
+        "end": 43.472
+      },
+      {
+        "text": "cuestión",
+        "start": 43.472,
+        "end": 43.792
+      },
+      {
+        "text": "de",
+        "start": 43.792,
+        "end": 43.872
+      },
+      {
+        "text": "meses",
+        "start": 43.872,
+        "end": 44.352
+      },
+      {
+        "text": "o",
+        "start": 44.832,
+        "end": 44.992
+      },
+      {
+        "text": "nace",
+        "start": 44.992,
+        "end": 45.232
+      },
+      {
+        "text": "pensando",
+        "start": 45.232,
+        "end": 45.712
+      },
+      {
+        "text": "en",
+        "start": 45.712,
+        "end": 45.792
+      },
+      {
+        "text": "exportar",
+        "start": 45.792,
+        "end": 46.192
+      },
+      {
+        "text": "al",
+        "start": 46.192,
+        "end": 46.352
+      },
+      {
+        "text": "mundo",
+        "start": 46.352,
+        "end": 46.752
+      },
+      {
+        "text": "o",
+        "start": 46.912,
+        "end": 46.992
+      },
+      {
+        "text": "se",
+        "start": 46.992,
+        "end": 47.072
+      },
+      {
+        "text": "estanca",
+        "start": 47.072,
+        "end": 47.632
+      }
+    ]
+  },
+  "s11": {
+    "text": "Pero hay un desafío todavía más profundo corriendo bajo la superficie: el invierno demográfico. A diferencia del resto de Sudamérica, Uruguay vivió su transición demográfica a mediados del siglo veinte, al mismo ritmo que Europa. Se urbanizó temprano, educó a su población y creó el primer Estado de bienestar de la región. El resultado es que Uruguay envejeció antes de volverse plenamente rico. Entre dos mil quince y dos mil veintitrés, los nacimientos se desplomaron de cuarenta y ocho mil a apenas treinta y un mil por año. La tasa de fecundidad cayó a cerca de uno coma tres hijos por mujer, muy por debajo del dos coma uno necesario para reemplazar a la población. Desde dos mil veintiuno, en Uruguay mueren más personas de las que nacen. Con una pirámide invertida donde cada vez hay más jubilados y menos trabajadores activos, financiar las pensiones y la salud se vuelve el mayor rompecabezas fiscal del siglo.",
+    "seconds": 52.065,
+    "words": [
+      {
+        "text": "Pero",
+        "start": 0,
+        "end": 0.087
+      },
+      {
+        "text": "hay",
+        "start": 0.087,
+        "end": 0.167
+      },
+      {
+        "text": "un",
+        "start": 0.167,
+        "end": 0.247
+      },
+      {
+        "text": "desafío",
+        "start": 0.247,
+        "end": 0.727
+      },
+      {
+        "text": "todavía",
+        "start": 0.727,
+        "end": 1.127
+      },
+      {
+        "text": "más",
+        "start": 1.127,
+        "end": 1.287
+      },
+      {
+        "text": "profundo",
+        "start": 1.287,
+        "end": 1.767
+      },
+      {
+        "text": "corriendo",
+        "start": 1.767,
+        "end": 2.167
+      },
+      {
+        "text": "bajo",
+        "start": 2.167,
+        "end": 2.327
+      },
+      {
+        "text": "la",
+        "start": 2.327,
+        "end": 2.407
+      },
+      {
+        "text": "superficie",
+        "start": 2.407,
+        "end": 3.047
+      },
+      {
+        "text": "el",
+        "start": 3.607,
+        "end": 3.767
+      },
+      {
+        "text": "invierno",
+        "start": 3.767,
+        "end": 4.167
+      },
+      {
+        "text": "demográfico",
+        "start": 4.167,
+        "end": 4.887
+      },
+      {
+        "text": "A",
+        "start": 5.607,
+        "end": 5.687
+      },
+      {
+        "text": "diferencia",
+        "start": 5.687,
+        "end": 6.167
+      },
+      {
+        "text": "del",
+        "start": 6.167,
+        "end": 6.247
+      },
+      {
+        "text": "resto",
+        "start": 6.247,
+        "end": 6.567
+      },
+      {
+        "text": "de",
+        "start": 6.567,
+        "end": 6.647
+      },
+      {
+        "text": "Sudamérica",
+        "start": 6.647,
+        "end": 7.287
+      },
+      {
+        "text": "Uruguay",
+        "start": 7.687,
+        "end": 8.087
+      },
+      {
+        "text": "vivió",
+        "start": 8.087,
+        "end": 8.327
+      },
+      {
+        "text": "su",
+        "start": 8.327,
+        "end": 8.487
+      },
+      {
+        "text": "transición",
+        "start": 8.487,
+        "end": 8.967
+      },
+      {
+        "text": "demográfica",
+        "start": 8.967,
+        "end": 9.847
+      },
+      {
+        "text": "a",
+        "start": 9.847,
+        "end": 9.927
+      },
+      {
+        "text": "mediados",
+        "start": 9.927,
+        "end": 10.327
+      },
+      {
+        "text": "del",
+        "start": 10.327,
+        "end": 10.407
+      },
+      {
+        "text": "siglo",
+        "start": 10.407,
+        "end": 10.727
+      },
+      {
+        "text": "veinte",
+        "start": 10.727,
+        "end": 11.127
+      },
+      {
+        "text": "al",
+        "start": 11.607,
+        "end": 11.687
+      },
+      {
+        "text": "mismo",
+        "start": 11.687,
+        "end": 12.007
+      },
+      {
+        "text": "ritmo",
+        "start": 12.007,
+        "end": 12.247
+      },
+      {
+        "text": "que",
+        "start": 12.247,
+        "end": 12.327
+      },
+      {
+        "text": "Europa",
+        "start": 12.327,
+        "end": 12.807
+      },
+      {
+        "text": "Se",
+        "start": 13.266,
+        "end": 13.426
+      },
+      {
+        "text": "urbanizó",
+        "start": 13.426,
+        "end": 13.826
+      },
+      {
+        "text": "temprano",
+        "start": 13.826,
+        "end": 14.466
+      },
+      {
+        "text": "educó",
+        "start": 14.866,
+        "end": 15.186
+      },
+      {
+        "text": "a",
+        "start": 15.186,
+        "end": 15.266
+      },
+      {
+        "text": "su",
+        "start": 15.266,
+        "end": 15.426
+      },
+      {
+        "text": "población",
+        "start": 15.426,
+        "end": 16.066
+      },
+      {
+        "text": "y",
+        "start": 16.226,
+        "end": 16.306
+      },
+      {
+        "text": "creó",
+        "start": 16.306,
+        "end": 16.546
+      },
+      {
+        "text": "el",
+        "start": 16.546,
+        "end": 16.626
+      },
+      {
+        "text": "primer",
+        "start": 16.626,
+        "end": 16.866
+      },
+      {
+        "text": "Estado",
+        "start": 16.866,
+        "end": 17.186
+      },
+      {
+        "text": "de",
+        "start": 17.186,
+        "end": 17.266
+      },
+      {
+        "text": "bienestar",
+        "start": 17.266,
+        "end": 17.746
+      },
+      {
+        "text": "de",
+        "start": 17.746,
+        "end": 17.826
+      },
+      {
+        "text": "la",
+        "start": 17.826,
+        "end": 17.906
+      },
+      {
+        "text": "región",
+        "start": 17.906,
+        "end": 18.466
+      },
+      {
+        "text": "El",
+        "start": 19.186,
+        "end": 19.266
+      },
+      {
+        "text": "resultado",
+        "start": 19.266,
+        "end": 19.666
+      },
+      {
+        "text": "es",
+        "start": 19.666,
+        "end": 19.746
+      },
+      {
+        "text": "que",
+        "start": 19.746,
+        "end": 19.826
+      },
+      {
+        "text": "Uruguay",
+        "start": 19.826,
+        "end": 20.306
+      },
+      {
+        "text": "envejeció",
+        "start": 20.546,
+        "end": 21.106
+      },
+      {
+        "text": "antes",
+        "start": 21.106,
+        "end": 21.266
+      },
+      {
+        "text": "de",
+        "start": 21.266,
+        "end": 21.346
+      },
+      {
+        "text": "volverse",
+        "start": 21.346,
+        "end": 21.826
+      },
+      {
+        "text": "plenamente",
+        "start": 21.826,
+        "end": 22.306
+      },
+      {
+        "text": "rico",
+        "start": 22.306,
+        "end": 22.786
+      },
+      {
+        "text": "Entre",
+        "start": 23.254,
+        "end": 23.414
+      },
+      {
+        "text": "dos",
+        "start": 23.414,
+        "end": 23.574
+      },
+      {
+        "text": "mil",
+        "start": 23.574,
+        "end": 23.814
+      },
+      {
+        "text": "quince",
+        "start": 23.814,
+        "end": 24.134
+      },
+      {
+        "text": "y",
+        "start": 24.134,
+        "end": 24.134
+      },
+      {
+        "text": "dos",
+        "start": 24.134,
+        "end": 24.294
+      },
+      {
+        "text": "mil",
+        "start": 24.294,
+        "end": 24.374
+      },
+      {
+        "text": "veintitrés",
+        "start": 24.374,
+        "end": 25.094
+      },
+      {
+        "text": "los",
+        "start": 25.414,
+        "end": 25.494
+      },
+      {
+        "text": "nacimientos",
+        "start": 25.494,
+        "end": 26.134
+      },
+      {
+        "text": "se",
+        "start": 26.134,
+        "end": 26.214
+      },
+      {
+        "text": "desplomaron",
+        "start": 26.214,
+        "end": 26.694
+      },
+      {
+        "text": "de",
+        "start": 26.694,
+        "end": 26.774
+      },
+      {
+        "text": "cuarenta",
+        "start": 26.774,
+        "end": 27.174
+      },
+      {
+        "text": "y",
+        "start": 27.174,
+        "end": 27.254
+      },
+      {
+        "text": "ocho",
+        "start": 27.254,
+        "end": 27.414
+      },
+      {
+        "text": "mil",
+        "start": 27.414,
+        "end": 27.734
+      },
+      {
+        "text": "a",
+        "start": 27.894,
+        "end": 28.054
+      },
+      {
+        "text": "apenas",
+        "start": 28.054,
+        "end": 28.374
+      },
+      {
+        "text": "treinta",
+        "start": 28.374,
+        "end": 28.614
+      },
+      {
+        "text": "y",
+        "start": 28.614,
+        "end": 28.694
+      },
+      {
+        "text": "un",
+        "start": 28.694,
+        "end": 28.854
+      },
+      {
+        "text": "mil",
+        "start": 28.854,
+        "end": 29.014
+      },
+      {
+        "text": "por",
+        "start": 29.014,
+        "end": 29.174
+      },
+      {
+        "text": "año",
+        "start": 29.174,
+        "end": 29.494
+      },
+      {
+        "text": "La",
+        "start": 30.214,
+        "end": 30.374
+      },
+      {
+        "text": "tasa",
+        "start": 30.374,
+        "end": 30.614
+      },
+      {
+        "text": "de",
+        "start": 30.614,
+        "end": 30.694
+      },
+      {
+        "text": "fecundidad",
+        "start": 30.694,
+        "end": 31.334
+      },
+      {
+        "text": "cayó",
+        "start": 31.654,
+        "end": 31.894
+      },
+      {
+        "text": "a",
+        "start": 31.894,
+        "end": 31.974
+      },
+      {
+        "text": "cerca",
+        "start": 31.974,
+        "end": 32.294
+      },
+      {
+        "text": "de",
+        "start": 32.294,
+        "end": 32.374
+      },
+      {
+        "text": "uno",
+        "start": 32.374,
+        "end": 32.614
+      },
+      {
+        "text": "coma",
+        "start": 32.614,
+        "end": 32.854
+      },
+      {
+        "text": "tres",
+        "start": 32.854,
+        "end": 33.094
+      },
+      {
+        "text": "hijos",
+        "start": 33.094,
+        "end": 33.254
+      },
+      {
+        "text": "por",
+        "start": 33.254,
+        "end": 33.414
+      },
+      {
+        "text": "mujer",
+        "start": 33.414,
+        "end": 33.894
+      },
+      {
+        "text": "muy",
+        "start": 34.374,
+        "end": 34.534
+      },
+      {
+        "text": "por",
+        "start": 34.534,
+        "end": 34.694
+      },
+      {
+        "text": "debajo",
+        "start": 34.694,
+        "end": 35.014
+      },
+      {
+        "text": "del",
+        "start": 35.014,
+        "end": 35.174
+      },
+      {
+        "text": "dos",
+        "start": 35.174,
+        "end": 35.334
+      },
+      {
+        "text": "coma",
+        "start": 35.334,
+        "end": 35.574
+      },
+      {
+        "text": "uno",
+        "start": 35.574,
+        "end": 35.814
+      },
+      {
+        "text": "necesario",
+        "start": 35.814,
+        "end": 36.454
+      },
+      {
+        "text": "para",
+        "start": 36.694,
+        "end": 36.854
+      },
+      {
+        "text": "reemplazar",
+        "start": 36.854,
+        "end": 37.334
+      },
+      {
+        "text": "a",
+        "start": 37.334,
+        "end": 37.334
+      },
+      {
+        "text": "la",
+        "start": 37.334,
+        "end": 37.414
+      },
+      {
+        "text": "población",
+        "start": 37.414,
+        "end": 38.134
+      },
+      {
+        "text": "Desde",
+        "start": 38.657,
+        "end": 38.897
+      },
+      {
+        "text": "dos",
+        "start": 38.897,
+        "end": 39.057
+      },
+      {
+        "text": "mil",
+        "start": 39.057,
+        "end": 39.217
+      },
+      {
+        "text": "veintiuno",
+        "start": 39.217,
+        "end": 39.857
+      },
+      {
+        "text": "en",
+        "start": 40.097,
+        "end": 40.257
+      },
+      {
+        "text": "Uruguay",
+        "start": 40.257,
+        "end": 40.657
+      },
+      {
+        "text": "mueren",
+        "start": 40.657,
+        "end": 40.897
+      },
+      {
+        "text": "más",
+        "start": 40.897,
+        "end": 41.057
+      },
+      {
+        "text": "personas",
+        "start": 41.057,
+        "end": 41.537
+      },
+      {
+        "text": "de",
+        "start": 41.537,
+        "end": 41.617
+      },
+      {
+        "text": "las",
+        "start": 41.617,
+        "end": 41.697
+      },
+      {
+        "text": "que",
+        "start": 41.697,
+        "end": 41.777
+      },
+      {
+        "text": "nacen",
+        "start": 41.777,
+        "end": 42.257
+      },
+      {
+        "text": "Con",
+        "start": 42.817,
+        "end": 42.977
+      },
+      {
+        "text": "una",
+        "start": 42.977,
+        "end": 43.217
+      },
+      {
+        "text": "pirámide",
+        "start": 43.217,
+        "end": 43.617
+      },
+      {
+        "text": "invertida",
+        "start": 43.617,
+        "end": 44.097
+      },
+      {
+        "text": "donde",
+        "start": 44.097,
+        "end": 44.337
+      },
+      {
+        "text": "cada",
+        "start": 44.337,
+        "end": 44.577
+      },
+      {
+        "text": "vez",
+        "start": 44.577,
+        "end": 44.737
+      },
+      {
+        "text": "hay",
+        "start": 44.817,
+        "end": 44.897
+      },
+      {
+        "text": "más",
+        "start": 44.897,
+        "end": 45.057
+      },
+      {
+        "text": "jubilados",
+        "start": 45.057,
+        "end": 45.697
+      },
+      {
+        "text": "y",
+        "start": 45.857,
+        "end": 45.937
+      },
+      {
+        "text": "menos",
+        "start": 45.937,
+        "end": 46.177
+      },
+      {
+        "text": "trabajadores",
+        "start": 46.177,
+        "end": 46.737
+      },
+      {
+        "text": "activos",
+        "start": 46.737,
+        "end": 47.297
+      },
+      {
+        "text": "financiar",
+        "start": 47.617,
+        "end": 48.017
+      },
+      {
+        "text": "las",
+        "start": 48.017,
+        "end": 48.177
+      },
+      {
+        "text": "pensiones",
+        "start": 48.177,
+        "end": 48.817
+      },
+      {
+        "text": "y",
+        "start": 48.977,
+        "end": 49.137
+      },
+      {
+        "text": "la",
+        "start": 49.137,
+        "end": 49.217
+      },
+      {
+        "text": "salud",
+        "start": 49.217,
+        "end": 49.457
+      },
+      {
+        "text": "se",
+        "start": 49.457,
+        "end": 49.617
+      },
+      {
+        "text": "vuelve",
+        "start": 49.617,
+        "end": 50.017
+      },
+      {
+        "text": "el",
+        "start": 50.017,
+        "end": 50.097
+      },
+      {
+        "text": "mayor",
+        "start": 50.097,
+        "end": 50.417
+      },
+      {
+        "text": "rompecabezas",
+        "start": 50.417,
+        "end": 51.057
+      },
+      {
+        "text": "fiscal",
+        "start": 51.057,
+        "end": 51.377
+      },
+      {
+        "text": "del",
+        "start": 51.377,
+        "end": 51.457
+      },
+      {
+        "text": "siglo",
+        "start": 51.457,
+        "end": 51.937
+      }
+    ]
+  },
+  "s12": {
+    "text": "A esa baja natalidad se suma una herida histórica recurrente: la emigración. Desde la crisis económica y política de los años sesenta y setenta hasta el colapso financiero de dos mil dos, oleadas enteras de jóvenes hicieron las maletas hacia España, Estados Unidos, Argentina o Australia. Se estima que más de medio millón de uruguayos —el equivalente a una sexta parte del país— vive en el exterior. Y aunque hoy Uruguay tiene la democracia más sólida, el mayor ingreso per cápita y los salarios en dólares más altos de Sudamérica, muchos jóvenes profesionales siguen sintiendo el síndrome del país chico: nichos laborales reducidos, costos elevados y poca rotación. La única válvula de escape que encontró la nueva generación fue trabajar desde Uruguay para el mundo, convirtiendo a Montevideo en un polo exportador de software y servicios globales.",
+    "seconds": 46.037,
+    "words": [
+      {
+        "text": "A",
+        "start": 0,
+        "end": 0.087
+      },
+      {
+        "text": "esa",
+        "start": 0.087,
+        "end": 0.247
+      },
+      {
+        "text": "baja",
+        "start": 0.247,
+        "end": 0.487
+      },
+      {
+        "text": "natalidad",
+        "start": 0.487,
+        "end": 0.967
+      },
+      {
+        "text": "se",
+        "start": 0.967,
+        "end": 1.127
+      },
+      {
+        "text": "suma",
+        "start": 1.127,
+        "end": 1.367
+      },
+      {
+        "text": "una",
+        "start": 1.367,
+        "end": 1.527
+      },
+      {
+        "text": "herida",
+        "start": 1.527,
+        "end": 1.687
+      },
+      {
+        "text": "histórica",
+        "start": 1.687,
+        "end": 2.167
+      },
+      {
+        "text": "recurrente",
+        "start": 2.167,
+        "end": 2.887
+      },
+      {
+        "text": "la",
+        "start": 3.207,
+        "end": 3.367
+      },
+      {
+        "text": "emigración",
+        "start": 3.367,
+        "end": 4.247
+      },
+      {
+        "text": "Desde",
+        "start": 4.727,
+        "end": 4.967
+      },
+      {
+        "text": "la",
+        "start": 4.967,
+        "end": 5.127
+      },
+      {
+        "text": "crisis",
+        "start": 5.127,
+        "end": 5.367
+      },
+      {
+        "text": "económica",
+        "start": 5.367,
+        "end": 5.927
+      },
+      {
+        "text": "y",
+        "start": 5.927,
+        "end": 5.927
+      },
+      {
+        "text": "política",
+        "start": 5.927,
+        "end": 6.407
+      },
+      {
+        "text": "de",
+        "start": 6.407,
+        "end": 6.487
+      },
+      {
+        "text": "los",
+        "start": 6.487,
+        "end": 6.647
+      },
+      {
+        "text": "años",
+        "start": 6.727,
+        "end": 6.887
+      },
+      {
+        "text": "sesenta",
+        "start": 6.887,
+        "end": 7.207
+      },
+      {
+        "text": "y",
+        "start": 7.207,
+        "end": 7.207
+      },
+      {
+        "text": "setenta",
+        "start": 7.207,
+        "end": 7.847
+      },
+      {
+        "text": "hasta",
+        "start": 8.087,
+        "end": 8.327
+      },
+      {
+        "text": "el",
+        "start": 8.327,
+        "end": 8.407
+      },
+      {
+        "text": "colapso",
+        "start": 8.407,
+        "end": 8.807
+      },
+      {
+        "text": "financiero",
+        "start": 8.807,
+        "end": 9.287
+      },
+      {
+        "text": "de",
+        "start": 9.287,
+        "end": 9.447
+      },
+      {
+        "text": "dos",
+        "start": 9.447,
+        "end": 9.607
+      },
+      {
+        "text": "mil",
+        "start": 9.607,
+        "end": 9.767
+      },
+      {
+        "text": "dos",
+        "start": 9.767,
+        "end": 10.087
+      },
+      {
+        "text": "oleadas",
+        "start": 10.567,
+        "end": 11.047
+      },
+      {
+        "text": "enteras",
+        "start": 11.047,
+        "end": 11.367
+      },
+      {
+        "text": "de",
+        "start": 11.367,
+        "end": 11.447
+      },
+      {
+        "text": "jóvenes",
+        "start": 11.447,
+        "end": 11.927
+      },
+      {
+        "text": "hicieron",
+        "start": 11.927,
+        "end": 12.167
+      },
+      {
+        "text": "las",
+        "start": 12.167,
+        "end": 12.327
+      },
+      {
+        "text": "maletas",
+        "start": 12.327,
+        "end": 12.727
+      },
+      {
+        "text": "hacia",
+        "start": 12.727,
+        "end": 12.887
+      },
+      {
+        "text": "España",
+        "start": 12.887,
+        "end": 13.367
+      },
+      {
+        "text": "Estados",
+        "start": 13.607,
+        "end": 14.087
+      },
+      {
+        "text": "Unidos",
+        "start": 14.087,
+        "end": 14.567
+      },
+      {
+        "text": "Argentina",
+        "start": 14.647,
+        "end": 15.287
+      },
+      {
+        "text": "o",
+        "start": 15.367,
+        "end": 15.527
+      },
+      {
+        "text": "Australia",
+        "start": 15.527,
+        "end": 16.007
+      },
+      {
+        "text": "Se",
+        "start": 16.503,
+        "end": 16.663
+      },
+      {
+        "text": "estima",
+        "start": 16.663,
+        "end": 16.983
+      },
+      {
+        "text": "que",
+        "start": 16.983,
+        "end": 17.063
+      },
+      {
+        "text": "más",
+        "start": 17.063,
+        "end": 17.223
+      },
+      {
+        "text": "de",
+        "start": 17.223,
+        "end": 17.303
+      },
+      {
+        "text": "medio",
+        "start": 17.303,
+        "end": 17.543
+      },
+      {
+        "text": "millón",
+        "start": 17.543,
+        "end": 17.783
+      },
+      {
+        "text": "de",
+        "start": 17.783,
+        "end": 17.943
+      },
+      {
+        "text": "uruguayos",
+        "start": 17.943,
+        "end": 18.503
+      },
+      {
+        "text": "el",
+        "start": 18.743,
+        "end": 18.903
+      },
+      {
+        "text": "equivalente",
+        "start": 18.903,
+        "end": 19.383
+      },
+      {
+        "text": "a",
+        "start": 19.383,
+        "end": 19.383
+      },
+      {
+        "text": "una",
+        "start": 19.383,
+        "end": 19.543
+      },
+      {
+        "text": "sexta",
+        "start": 19.543,
+        "end": 19.943
+      },
+      {
+        "text": "parte",
+        "start": 19.943,
+        "end": 20.183
+      },
+      {
+        "text": "del",
+        "start": 20.183,
+        "end": 20.263
+      },
+      {
+        "text": "país",
+        "start": 20.263,
+        "end": 20.663
+      },
+      {
+        "text": "vive",
+        "start": 20.983,
+        "end": 21.223
+      },
+      {
+        "text": "en",
+        "start": 21.223,
+        "end": 21.303
+      },
+      {
+        "text": "el",
+        "start": 21.303,
+        "end": 21.383
+      },
+      {
+        "text": "exterior",
+        "start": 21.383,
+        "end": 21.943
+      },
+      {
+        "text": "Y",
+        "start": 22.332,
+        "end": 22.492
+      },
+      {
+        "text": "aunque",
+        "start": 22.492,
+        "end": 22.732
+      },
+      {
+        "text": "hoy",
+        "start": 22.732,
+        "end": 22.892
+      },
+      {
+        "text": "Uruguay",
+        "start": 22.892,
+        "end": 23.212
+      },
+      {
+        "text": "tiene",
+        "start": 23.212,
+        "end": 23.452
+      },
+      {
+        "text": "la",
+        "start": 23.452,
+        "end": 23.532
+      },
+      {
+        "text": "democracia",
+        "start": 23.532,
+        "end": 24.012
+      },
+      {
+        "text": "más",
+        "start": 24.012,
+        "end": 24.172
+      },
+      {
+        "text": "sólida",
+        "start": 24.172,
+        "end": 24.652
+      },
+      {
+        "text": "el",
+        "start": 24.972,
+        "end": 25.132
+      },
+      {
+        "text": "mayor",
+        "start": 25.132,
+        "end": 25.372
+      },
+      {
+        "text": "ingreso",
+        "start": 25.372,
+        "end": 25.772
+      },
+      {
+        "text": "per",
+        "start": 25.772,
+        "end": 25.852
+      },
+      {
+        "text": "cápita",
+        "start": 25.852,
+        "end": 26.412
+      },
+      {
+        "text": "y",
+        "start": 26.572,
+        "end": 26.652
+      },
+      {
+        "text": "los",
+        "start": 26.652,
+        "end": 26.812
+      },
+      {
+        "text": "salarios",
+        "start": 26.812,
+        "end": 27.212
+      },
+      {
+        "text": "en",
+        "start": 27.212,
+        "end": 27.292
+      },
+      {
+        "text": "dólares",
+        "start": 27.292,
+        "end": 27.612
+      },
+      {
+        "text": "más",
+        "start": 27.612,
+        "end": 27.772
+      },
+      {
+        "text": "altos",
+        "start": 27.772,
+        "end": 28.012
+      },
+      {
+        "text": "de",
+        "start": 28.012,
+        "end": 28.092
+      },
+      {
+        "text": "Sudamérica",
+        "start": 28.092,
+        "end": 28.812
+      },
+      {
+        "text": "muchos",
+        "start": 29.052,
+        "end": 29.372
+      },
+      {
+        "text": "jóvenes",
+        "start": 29.372,
+        "end": 29.692
+      },
+      {
+        "text": "profesionales",
+        "start": 29.692,
+        "end": 30.412
+      },
+      {
+        "text": "siguen",
+        "start": 30.572,
+        "end": 30.892
+      },
+      {
+        "text": "sintiendo",
+        "start": 30.892,
+        "end": 31.372
+      },
+      {
+        "text": "el",
+        "start": 31.372,
+        "end": 31.452
+      },
+      {
+        "text": "síndrome",
+        "start": 31.452,
+        "end": 31.852
+      },
+      {
+        "text": "del",
+        "start": 31.852,
+        "end": 31.932
+      },
+      {
+        "text": "país",
+        "start": 31.932,
+        "end": 32.252
+      },
+      {
+        "text": "chico",
+        "start": 32.252,
+        "end": 32.652
+      },
+      {
+        "text": "nichos",
+        "start": 32.972,
+        "end": 33.292
+      },
+      {
+        "text": "laborales",
+        "start": 33.292,
+        "end": 33.772
+      },
+      {
+        "text": "reducidos",
+        "start": 33.772,
+        "end": 34.412
+      },
+      {
+        "text": "costos",
+        "start": 34.572,
+        "end": 34.972
+      },
+      {
+        "text": "elevados",
+        "start": 34.972,
+        "end": 35.532
+      },
+      {
+        "text": "y",
+        "start": 35.532,
+        "end": 35.612
+      },
+      {
+        "text": "poca",
+        "start": 35.612,
+        "end": 35.852
+      },
+      {
+        "text": "rotación",
+        "start": 35.852,
+        "end": 36.492
+      },
+      {
+        "text": "La",
+        "start": 36.974,
+        "end": 37.054
+      },
+      {
+        "text": "única",
+        "start": 37.054,
+        "end": 37.374
+      },
+      {
+        "text": "válvula",
+        "start": 37.374,
+        "end": 37.774
+      },
+      {
+        "text": "de",
+        "start": 37.774,
+        "end": 37.854
+      },
+      {
+        "text": "escape",
+        "start": 37.854,
+        "end": 38.174
+      },
+      {
+        "text": "que",
+        "start": 38.174,
+        "end": 38.254
+      },
+      {
+        "text": "encontró",
+        "start": 38.254,
+        "end": 38.654
+      },
+      {
+        "text": "la",
+        "start": 38.654,
+        "end": 38.734
+      },
+      {
+        "text": "nueva",
+        "start": 38.734,
+        "end": 38.974
+      },
+      {
+        "text": "generación",
+        "start": 38.974,
+        "end": 39.774
+      },
+      {
+        "text": "fue",
+        "start": 39.934,
+        "end": 40.174
+      },
+      {
+        "text": "trabajar",
+        "start": 40.174,
+        "end": 40.574
+      },
+      {
+        "text": "desde",
+        "start": 40.574,
+        "end": 40.734
+      },
+      {
+        "text": "Uruguay",
+        "start": 40.734,
+        "end": 41.054
+      },
+      {
+        "text": "para",
+        "start": 41.134,
+        "end": 41.294
+      },
+      {
+        "text": "el",
+        "start": 41.294,
+        "end": 41.374
+      },
+      {
+        "text": "mundo",
+        "start": 41.374,
+        "end": 41.774
+      },
+      {
+        "text": "convirtiendo",
+        "start": 42.094,
+        "end": 42.654
+      },
+      {
+        "text": "a",
+        "start": 42.654,
+        "end": 42.734
+      },
+      {
+        "text": "Montevideo",
+        "start": 42.734,
+        "end": 43.294
+      },
+      {
+        "text": "en",
+        "start": 43.294,
+        "end": 43.374
+      },
+      {
+        "text": "un",
+        "start": 43.374,
+        "end": 43.454
+      },
+      {
+        "text": "polo",
+        "start": 43.454,
+        "end": 43.614
+      },
+      {
+        "text": "exportador",
+        "start": 43.614,
+        "end": 44.174
+      },
+      {
+        "text": "de",
+        "start": 44.174,
+        "end": 44.254
+      },
+      {
+        "text": "software",
+        "start": 44.254,
+        "end": 44.814
+      },
+      {
+        "text": "y",
+        "start": 44.894,
+        "end": 44.974
+      },
+      {
+        "text": "servicios",
+        "start": 44.974,
+        "end": 45.374
+      },
+      {
+        "text": "globales",
+        "start": 45.374,
+        "end": 45.934
+      }
+    ]
+  },
+  "s13": {
+    "text": "Pero detengámonos un segundo e invirtamos por completo el telescopio. Durante dos siglos, tener poca gente fue visto como una debilidad geopolítica. Sin embargo, en pleno siglo veintiuno, en un planeta que supera los ocho mil millones de habitantes, golpeado por el estrés hídrico, la crisis climática y la inseguridad alimentaria, la ecuación cambia radicalmente. Si cortamos transversalmente el subsuelo uruguayo, descubrimos que el país descansa sobre el Acuífero Guaraní, una de las mayores reservas subterráneas de agua dulce del mundo. Y en la superficie, más del noventa y cinco por ciento de su electricidad ya se genera con energías renovables: viento, agua y biomasa.",
+    "seconds": 38.993,
+    "words": [
+      {
+        "text": "Pero",
+        "start": 0,
+        "end": 0.155
+      },
+      {
+        "text": "detengámonos",
+        "start": 0.155,
+        "end": 0.715
+      },
+      {
+        "text": "un",
+        "start": 0.715,
+        "end": 0.795
+      },
+      {
+        "text": "segundo",
+        "start": 0.795,
+        "end": 1.275
+      },
+      {
+        "text": "e",
+        "start": 1.275,
+        "end": 1.275
+      },
+      {
+        "text": "invirtamos",
+        "start": 1.275,
+        "end": 1.755
+      },
+      {
+        "text": "por",
+        "start": 1.755,
+        "end": 1.915
+      },
+      {
+        "text": "completo",
+        "start": 1.915,
+        "end": 2.315
+      },
+      {
+        "text": "el",
+        "start": 2.315,
+        "end": 2.395
+      },
+      {
+        "text": "telescopio",
+        "start": 2.395,
+        "end": 3.035
+      },
+      {
+        "text": "Durante",
+        "start": 3.915,
+        "end": 4.315
+      },
+      {
+        "text": "dos",
+        "start": 4.315,
+        "end": 4.475
+      },
+      {
+        "text": "siglos",
+        "start": 4.475,
+        "end": 5.035
+      },
+      {
+        "text": "tener",
+        "start": 5.115,
+        "end": 5.355
+      },
+      {
+        "text": "poca",
+        "start": 5.355,
+        "end": 5.595
+      },
+      {
+        "text": "gente",
+        "start": 5.595,
+        "end": 5.915
+      },
+      {
+        "text": "fue",
+        "start": 5.915,
+        "end": 6.075
+      },
+      {
+        "text": "visto",
+        "start": 6.075,
+        "end": 6.395
+      },
+      {
+        "text": "como",
+        "start": 6.395,
+        "end": 6.555
+      },
+      {
+        "text": "una",
+        "start": 6.555,
+        "end": 6.715
+      },
+      {
+        "text": "debilidad",
+        "start": 6.715,
+        "end": 7.195
+      },
+      {
+        "text": "geopolítica",
+        "start": 7.355,
+        "end": 8.075
+      },
+      {
+        "text": "Sin",
+        "start": 8.45,
+        "end": 8.61
+      },
+      {
+        "text": "embargo",
+        "start": 8.61,
+        "end": 9.17
+      },
+      {
+        "text": "en",
+        "start": 9.17,
+        "end": 9.33
+      },
+      {
+        "text": "pleno",
+        "start": 9.33,
+        "end": 9.57
+      },
+      {
+        "text": "siglo",
+        "start": 9.57,
+        "end": 9.81
+      },
+      {
+        "text": "veintiuno",
+        "start": 9.81,
+        "end": 10.45
+      },
+      {
+        "text": "en",
+        "start": 11.09,
+        "end": 11.17
+      },
+      {
+        "text": "un",
+        "start": 11.17,
+        "end": 11.25
+      },
+      {
+        "text": "planeta",
+        "start": 11.25,
+        "end": 11.65
+      },
+      {
+        "text": "que",
+        "start": 11.65,
+        "end": 11.73
+      },
+      {
+        "text": "supera",
+        "start": 11.73,
+        "end": 12.05
+      },
+      {
+        "text": "los",
+        "start": 12.05,
+        "end": 12.29
+      },
+      {
+        "text": "ocho",
+        "start": 12.29,
+        "end": 12.53
+      },
+      {
+        "text": "mil",
+        "start": 12.53,
+        "end": 12.69
+      },
+      {
+        "text": "millones",
+        "start": 12.69,
+        "end": 13.09
+      },
+      {
+        "text": "de",
+        "start": 13.09,
+        "end": 13.09
+      },
+      {
+        "text": "habitantes",
+        "start": 13.09,
+        "end": 13.73
+      },
+      {
+        "text": "golpeado",
+        "start": 14.13,
+        "end": 14.61
+      },
+      {
+        "text": "por",
+        "start": 14.61,
+        "end": 14.77
+      },
+      {
+        "text": "el",
+        "start": 14.77,
+        "end": 14.85
+      },
+      {
+        "text": "estrés",
+        "start": 14.85,
+        "end": 15.17
+      },
+      {
+        "text": "hídrico",
+        "start": 15.17,
+        "end": 15.73
+      },
+      {
+        "text": "la",
+        "start": 16.13,
+        "end": 16.29
+      },
+      {
+        "text": "crisis",
+        "start": 16.29,
+        "end": 16.61
+      },
+      {
+        "text": "climática",
+        "start": 16.61,
+        "end": 17.25
+      },
+      {
+        "text": "y",
+        "start": 17.49,
+        "end": 17.57
+      },
+      {
+        "text": "la",
+        "start": 17.57,
+        "end": 17.65
+      },
+      {
+        "text": "inseguridad",
+        "start": 17.65,
+        "end": 18.13
+      },
+      {
+        "text": "alimentaria",
+        "start": 18.13,
+        "end": 18.85
+      },
+      {
+        "text": "la",
+        "start": 19.25,
+        "end": 19.41
+      },
+      {
+        "text": "ecuación",
+        "start": 19.41,
+        "end": 19.73
+      },
+      {
+        "text": "cambia",
+        "start": 19.73,
+        "end": 20.05
+      },
+      {
+        "text": "radicalmente",
+        "start": 20.05,
+        "end": 20.85
+      },
+      {
+        "text": "Si",
+        "start": 21.269,
+        "end": 21.429
+      },
+      {
+        "text": "cortamos",
+        "start": 21.429,
+        "end": 21.829
+      },
+      {
+        "text": "transversalmente",
+        "start": 21.829,
+        "end": 22.629
+      },
+      {
+        "text": "el",
+        "start": 22.629,
+        "end": 22.629
+      },
+      {
+        "text": "subsuelo",
+        "start": 22.629,
+        "end": 23.029
+      },
+      {
+        "text": "uruguayo",
+        "start": 23.029,
+        "end": 23.589
+      },
+      {
+        "text": "descubrimos",
+        "start": 24.069,
+        "end": 24.549
+      },
+      {
+        "text": "que",
+        "start": 24.549,
+        "end": 24.709
+      },
+      {
+        "text": "el",
+        "start": 24.709,
+        "end": 24.709
+      },
+      {
+        "text": "país",
+        "start": 24.709,
+        "end": 25.189
+      },
+      {
+        "text": "descansa",
+        "start": 25.269,
+        "end": 25.749
+      },
+      {
+        "text": "sobre",
+        "start": 25.749,
+        "end": 25.989
+      },
+      {
+        "text": "el",
+        "start": 25.989,
+        "end": 25.989
+      },
+      {
+        "text": "Acuífero",
+        "start": 26.069,
+        "end": 26.469
+      },
+      {
+        "text": "Guaraní",
+        "start": 26.469,
+        "end": 26.949
+      },
+      {
+        "text": "una",
+        "start": 27.509,
+        "end": 27.749
+      },
+      {
+        "text": "de",
+        "start": 27.749,
+        "end": 27.829
+      },
+      {
+        "text": "las",
+        "start": 27.829,
+        "end": 27.989
+      },
+      {
+        "text": "mayores",
+        "start": 27.989,
+        "end": 28.309
+      },
+      {
+        "text": "reservas",
+        "start": 28.309,
+        "end": 28.789
+      },
+      {
+        "text": "subterráneas",
+        "start": 28.789,
+        "end": 29.349
+      },
+      {
+        "text": "de",
+        "start": 29.349,
+        "end": 29.429
+      },
+      {
+        "text": "agua",
+        "start": 29.429,
+        "end": 29.589
+      },
+      {
+        "text": "dulce",
+        "start": 29.589,
+        "end": 29.829
+      },
+      {
+        "text": "del",
+        "start": 29.829,
+        "end": 29.989
+      },
+      {
+        "text": "mundo",
+        "start": 29.989,
+        "end": 30.469
+      },
+      {
+        "text": "Y",
+        "start": 30.806,
+        "end": 30.966
+      },
+      {
+        "text": "en",
+        "start": 30.966,
+        "end": 30.966
+      },
+      {
+        "text": "la",
+        "start": 30.966,
+        "end": 31.046
+      },
+      {
+        "text": "superficie",
+        "start": 31.046,
+        "end": 31.766
+      },
+      {
+        "text": "más",
+        "start": 32.006,
+        "end": 32.246
+      },
+      {
+        "text": "del",
+        "start": 32.246,
+        "end": 32.326
+      },
+      {
+        "text": "noventa",
+        "start": 32.326,
+        "end": 32.566
+      },
+      {
+        "text": "y",
+        "start": 32.566,
+        "end": 32.646
+      },
+      {
+        "text": "cinco",
+        "start": 32.646,
+        "end": 32.966
+      },
+      {
+        "text": "por",
+        "start": 32.966,
+        "end": 33.126
+      },
+      {
+        "text": "ciento",
+        "start": 33.126,
+        "end": 33.446
+      },
+      {
+        "text": "de",
+        "start": 33.446,
+        "end": 33.526
+      },
+      {
+        "text": "su",
+        "start": 33.526,
+        "end": 33.686
+      },
+      {
+        "text": "electricidad",
+        "start": 33.686,
+        "end": 34.326
+      },
+      {
+        "text": "ya",
+        "start": 34.646,
+        "end": 34.806
+      },
+      {
+        "text": "se",
+        "start": 34.806,
+        "end": 34.886
+      },
+      {
+        "text": "genera",
+        "start": 34.886,
+        "end": 35.206
+      },
+      {
+        "text": "con",
+        "start": 35.206,
+        "end": 35.366
+      },
+      {
+        "text": "energías",
+        "start": 35.366,
+        "end": 35.766
+      },
+      {
+        "text": "renovables",
+        "start": 35.766,
+        "end": 36.486
+      },
+      {
+        "text": "viento",
+        "start": 36.806,
+        "end": 37.286
+      },
+      {
+        "text": "agua",
+        "start": 37.526,
+        "end": 38.006
+      },
+      {
+        "text": "y",
+        "start": 38.086,
+        "end": 38.166
+      },
+      {
+        "text": "biomasa",
+        "start": 38.166,
+        "end": 38.806
+      }
+    ]
+  },
+  "s14": {
+    "text": "Gracias a que su campo no fue devorado por megalópolis contaminantes ni fragmentado hasta el agotamiento, Uruguay produce hoy alimentos para entre treinta y cuarenta millones de personas: diez veces su propia población. Cada vaca tiene trazabilidad electrónica individual desde que nace, los bosques plantados alimentan plantas de celulosa de escala mundial y su estabilidad institucional atrae capitales e inmigrantes regionales que buscan paz y previsibilidad. Aquella pradera vacía que el siglo diecinueve dejó sin poblar se ha convertido, paradójicamente, en su mayor seguro de vida para el futuro.",
+    "seconds": 30.049,
+    "words": [
+      {
+        "text": "Gracias",
+        "start": 0,
+        "end": 0.247
+      },
+      {
+        "text": "a",
+        "start": 0.247,
+        "end": 0.327
+      },
+      {
+        "text": "que",
+        "start": 0.327,
+        "end": 0.487
+      },
+      {
+        "text": "su",
+        "start": 0.487,
+        "end": 0.567
+      },
+      {
+        "text": "campo",
+        "start": 0.567,
+        "end": 0.887
+      },
+      {
+        "text": "no",
+        "start": 0.887,
+        "end": 0.967
+      },
+      {
+        "text": "fue",
+        "start": 0.967,
+        "end": 1.127
+      },
+      {
+        "text": "devorado",
+        "start": 1.127,
+        "end": 1.607
+      },
+      {
+        "text": "por",
+        "start": 1.607,
+        "end": 1.767
+      },
+      {
+        "text": "megalópolis",
+        "start": 1.767,
+        "end": 2.327
+      },
+      {
+        "text": "contaminantes",
+        "start": 2.327,
+        "end": 3.047
+      },
+      {
+        "text": "ni",
+        "start": 3.047,
+        "end": 3.127
+      },
+      {
+        "text": "fragmentado",
+        "start": 3.127,
+        "end": 3.687
+      },
+      {
+        "text": "hasta",
+        "start": 3.687,
+        "end": 3.847
+      },
+      {
+        "text": "el",
+        "start": 3.847,
+        "end": 3.927
+      },
+      {
+        "text": "agotamiento",
+        "start": 3.927,
+        "end": 4.647
+      },
+      {
+        "text": "Uruguay",
+        "start": 5.207,
+        "end": 5.607
+      },
+      {
+        "text": "produce",
+        "start": 5.607,
+        "end": 6.007
+      },
+      {
+        "text": "hoy",
+        "start": 6.007,
+        "end": 6.167
+      },
+      {
+        "text": "alimentos",
+        "start": 6.167,
+        "end": 6.647
+      },
+      {
+        "text": "para",
+        "start": 6.647,
+        "end": 6.807
+      },
+      {
+        "text": "entre",
+        "start": 6.807,
+        "end": 6.967
+      },
+      {
+        "text": "treinta",
+        "start": 6.967,
+        "end": 7.287
+      },
+      {
+        "text": "y",
+        "start": 7.287,
+        "end": 7.367
+      },
+      {
+        "text": "cuarenta",
+        "start": 7.367,
+        "end": 7.767
+      },
+      {
+        "text": "millones",
+        "start": 7.767,
+        "end": 8.087
+      },
+      {
+        "text": "de",
+        "start": 8.087,
+        "end": 8.167
+      },
+      {
+        "text": "personas",
+        "start": 8.167,
+        "end": 8.727
+      },
+      {
+        "text": "diez",
+        "start": 9.207,
+        "end": 9.367
+      },
+      {
+        "text": "veces",
+        "start": 9.367,
+        "end": 9.607
+      },
+      {
+        "text": "su",
+        "start": 9.607,
+        "end": 9.767
+      },
+      {
+        "text": "propia",
+        "start": 9.767,
+        "end": 10.087
+      },
+      {
+        "text": "población",
+        "start": 10.087,
+        "end": 10.727
+      },
+      {
+        "text": "Cada",
+        "start": 11.063,
+        "end": 11.303
+      },
+      {
+        "text": "vaca",
+        "start": 11.303,
+        "end": 11.543
+      },
+      {
+        "text": "tiene",
+        "start": 11.543,
+        "end": 11.703
+      },
+      {
+        "text": "trazabilidad",
+        "start": 11.703,
+        "end": 12.263
+      },
+      {
+        "text": "electrónica",
+        "start": 12.263,
+        "end": 12.743
+      },
+      {
+        "text": "individual",
+        "start": 12.743,
+        "end": 13.223
+      },
+      {
+        "text": "desde",
+        "start": 13.223,
+        "end": 13.383
+      },
+      {
+        "text": "que",
+        "start": 13.383,
+        "end": 13.543
+      },
+      {
+        "text": "nace",
+        "start": 13.543,
+        "end": 13.863
+      },
+      {
+        "text": "los",
+        "start": 14.343,
+        "end": 14.503
+      },
+      {
+        "text": "bosques",
+        "start": 14.503,
+        "end": 14.743
+      },
+      {
+        "text": "plantados",
+        "start": 14.743,
+        "end": 15.223
+      },
+      {
+        "text": "alimentan",
+        "start": 15.223,
+        "end": 15.703
+      },
+      {
+        "text": "plantas",
+        "start": 15.703,
+        "end": 16.023
+      },
+      {
+        "text": "de",
+        "start": 16.023,
+        "end": 16.103
+      },
+      {
+        "text": "celulosa",
+        "start": 16.103,
+        "end": 16.583
+      },
+      {
+        "text": "de",
+        "start": 16.583,
+        "end": 16.663
+      },
+      {
+        "text": "escala",
+        "start": 16.663,
+        "end": 16.903
+      },
+      {
+        "text": "mundial",
+        "start": 16.903,
+        "end": 17.383
+      },
+      {
+        "text": "y",
+        "start": 17.703,
+        "end": 17.783
+      },
+      {
+        "text": "su",
+        "start": 17.783,
+        "end": 17.863
+      },
+      {
+        "text": "estabilidad",
+        "start": 17.863,
+        "end": 18.263
+      },
+      {
+        "text": "institucional",
+        "start": 18.263,
+        "end": 18.983
+      },
+      {
+        "text": "atrae",
+        "start": 19.063,
+        "end": 19.383
+      },
+      {
+        "text": "capitales",
+        "start": 19.383,
+        "end": 20.023
+      },
+      {
+        "text": "e",
+        "start": 20.023,
+        "end": 20.023
+      },
+      {
+        "text": "inmigrantes",
+        "start": 20.023,
+        "end": 20.503
+      },
+      {
+        "text": "regionales",
+        "start": 20.503,
+        "end": 21.143
+      },
+      {
+        "text": "que",
+        "start": 21.303,
+        "end": 21.463
+      },
+      {
+        "text": "buscan",
+        "start": 21.463,
+        "end": 21.783
+      },
+      {
+        "text": "paz",
+        "start": 21.783,
+        "end": 22.023
+      },
+      {
+        "text": "y",
+        "start": 22.023,
+        "end": 22.183
+      },
+      {
+        "text": "previsibilidad",
+        "start": 22.183,
+        "end": 22.983
+      },
+      {
+        "text": "Aquella",
+        "start": 23.42,
+        "end": 23.74
+      },
+      {
+        "text": "pradera",
+        "start": 23.74,
+        "end": 24.14
+      },
+      {
+        "text": "vacía",
+        "start": 24.14,
+        "end": 24.54
+      },
+      {
+        "text": "que",
+        "start": 24.54,
+        "end": 24.62
+      },
+      {
+        "text": "el",
+        "start": 24.62,
+        "end": 24.78
+      },
+      {
+        "text": "siglo",
+        "start": 24.78,
+        "end": 25.02
+      },
+      {
+        "text": "diecinueve",
+        "start": 25.02,
+        "end": 25.5
+      },
+      {
+        "text": "dejó",
+        "start": 25.5,
+        "end": 25.66
+      },
+      {
+        "text": "sin",
+        "start": 25.66,
+        "end": 25.9
+      },
+      {
+        "text": "poblar",
+        "start": 25.9,
+        "end": 26.22
+      },
+      {
+        "text": "se",
+        "start": 26.22,
+        "end": 26.38
+      },
+      {
+        "text": "ha",
+        "start": 26.38,
+        "end": 26.38
+      },
+      {
+        "text": "convertido",
+        "start": 26.38,
+        "end": 27.02
+      },
+      {
+        "text": "paradójicamente",
+        "start": 27.42,
+        "end": 28.22
+      },
+      {
+        "text": "en",
+        "start": 28.22,
+        "end": 28.3
+      },
+      {
+        "text": "su",
+        "start": 28.3,
+        "end": 28.38
+      },
+      {
+        "text": "mayor",
+        "start": 28.38,
+        "end": 28.62
+      },
+      {
+        "text": "seguro",
+        "start": 28.62,
+        "end": 28.94
+      },
+      {
+        "text": "de",
+        "start": 28.94,
+        "end": 29.1
+      },
+      {
+        "text": "vida",
+        "start": 29.1,
+        "end": 29.26
+      },
+      {
+        "text": "para",
+        "start": 29.26,
+        "end": 29.42
+      },
+      {
+        "text": "el",
+        "start": 29.42,
+        "end": 29.5
+      },
+      {
+        "text": "futuro",
+        "start": 29.5,
+        "end": 30.06
+      }
+    ]
+  },
+  "s15": {
+    "text": "El dilema de Uruguay para las próximas décadas ya no es cómo llenar sus campos como en el siglo diecinueve, sino cómo sostener un Estado moderno, bajar su costo de vida y rejuvenecer su sociedad sin perder el equilibrio único de su territorio. Porque tal vez la verdadera riqueza del siglo veintiuno ya no se mida en cuántos millones de personas caben en un mapa... sino en cuánto horizonte abierto, cuánta agua limpia y cuánta calma le quedan a un país cuando el resto del mundo se haya quedado sin espacio.",
+    "seconds": 26.894,
+    "words": [
+      {
+        "text": "El",
+        "start": 0,
+        "end": 0.088
+      },
+      {
+        "text": "dilema",
+        "start": 0.088,
+        "end": 0.408
+      },
+      {
+        "text": "de",
+        "start": 0.408,
+        "end": 0.488
+      },
+      {
+        "text": "Uruguay",
+        "start": 0.488,
+        "end": 0.808
+      },
+      {
+        "text": "para",
+        "start": 0.808,
+        "end": 0.968
+      },
+      {
+        "text": "las",
+        "start": 0.968,
+        "end": 1.128
+      },
+      {
+        "text": "próximas",
+        "start": 1.128,
+        "end": 1.528
+      },
+      {
+        "text": "décadas",
+        "start": 1.528,
+        "end": 2.088
+      },
+      {
+        "text": "ya",
+        "start": 2.248,
+        "end": 2.408
+      },
+      {
+        "text": "no",
+        "start": 2.408,
+        "end": 2.568
+      },
+      {
+        "text": "es",
+        "start": 2.568,
+        "end": 2.728
+      },
+      {
+        "text": "cómo",
+        "start": 2.728,
+        "end": 2.968
+      },
+      {
+        "text": "llenar",
+        "start": 2.968,
+        "end": 3.288
+      },
+      {
+        "text": "sus",
+        "start": 3.288,
+        "end": 3.448
+      },
+      {
+        "text": "campos",
+        "start": 3.448,
+        "end": 3.848
+      },
+      {
+        "text": "como",
+        "start": 3.848,
+        "end": 4.088
+      },
+      {
+        "text": "en",
+        "start": 4.088,
+        "end": 4.168
+      },
+      {
+        "text": "el",
+        "start": 4.168,
+        "end": 4.168
+      },
+      {
+        "text": "siglo",
+        "start": 4.168,
+        "end": 4.488
+      },
+      {
+        "text": "diecinueve",
+        "start": 4.488,
+        "end": 5.128
+      },
+      {
+        "text": "sino",
+        "start": 5.448,
+        "end": 5.768
+      },
+      {
+        "text": "cómo",
+        "start": 5.768,
+        "end": 6.008
+      },
+      {
+        "text": "sostener",
+        "start": 6.008,
+        "end": 6.488
+      },
+      {
+        "text": "un",
+        "start": 6.488,
+        "end": 6.568
+      },
+      {
+        "text": "Estado",
+        "start": 6.568,
+        "end": 6.888
+      },
+      {
+        "text": "moderno",
+        "start": 6.888,
+        "end": 7.448
+      },
+      {
+        "text": "bajar",
+        "start": 7.848,
+        "end": 8.168
+      },
+      {
+        "text": "su",
+        "start": 8.168,
+        "end": 8.328
+      },
+      {
+        "text": "costo",
+        "start": 8.328,
+        "end": 8.568
+      },
+      {
+        "text": "de",
+        "start": 8.568,
+        "end": 8.728
+      },
+      {
+        "text": "vida",
+        "start": 8.728,
+        "end": 9.048
+      },
+      {
+        "text": "y",
+        "start": 9.448,
+        "end": 9.528
+      },
+      {
+        "text": "rejuvenecer",
+        "start": 9.528,
+        "end": 10.168
+      },
+      {
+        "text": "su",
+        "start": 10.168,
+        "end": 10.248
+      },
+      {
+        "text": "sociedad",
+        "start": 10.248,
+        "end": 10.728
+      },
+      {
+        "text": "sin",
+        "start": 10.968,
+        "end": 11.208
+      },
+      {
+        "text": "perder",
+        "start": 11.208,
+        "end": 11.448
+      },
+      {
+        "text": "el",
+        "start": 11.448,
+        "end": 11.528
+      },
+      {
+        "text": "equilibrio",
+        "start": 11.528,
+        "end": 12.088
+      },
+      {
+        "text": "único",
+        "start": 12.088,
+        "end": 12.408
+      },
+      {
+        "text": "de",
+        "start": 12.408,
+        "end": 12.488
+      },
+      {
+        "text": "su",
+        "start": 12.488,
+        "end": 12.568
+      },
+      {
+        "text": "territorio",
+        "start": 12.648,
+        "end": 13.288
+      },
+      {
+        "text": "Porque",
+        "start": 13.549,
+        "end": 13.789
+      },
+      {
+        "text": "tal",
+        "start": 13.789,
+        "end": 14.029
+      },
+      {
+        "text": "vez",
+        "start": 14.029,
+        "end": 14.269
+      },
+      {
+        "text": "la",
+        "start": 14.269,
+        "end": 14.349
+      },
+      {
+        "text": "verdadera",
+        "start": 14.349,
+        "end": 14.749
+      },
+      {
+        "text": "riqueza",
+        "start": 14.749,
+        "end": 15.149
+      },
+      {
+        "text": "del",
+        "start": 15.149,
+        "end": 15.229
+      },
+      {
+        "text": "siglo",
+        "start": 15.229,
+        "end": 15.549
+      },
+      {
+        "text": "veintiuno",
+        "start": 15.549,
+        "end": 16.109
+      },
+      {
+        "text": "ya",
+        "start": 16.509,
+        "end": 16.589
+      },
+      {
+        "text": "no",
+        "start": 16.589,
+        "end": 16.669
+      },
+      {
+        "text": "se",
+        "start": 16.669,
+        "end": 16.829
+      },
+      {
+        "text": "mida",
+        "start": 16.829,
+        "end": 17.069
+      },
+      {
+        "text": "en",
+        "start": 17.069,
+        "end": 17.149
+      },
+      {
+        "text": "cuántos",
+        "start": 17.149,
+        "end": 17.469
+      },
+      {
+        "text": "millones",
+        "start": 17.469,
+        "end": 17.869
+      },
+      {
+        "text": "de",
+        "start": 17.869,
+        "end": 17.949
+      },
+      {
+        "text": "personas",
+        "start": 17.949,
+        "end": 18.429
+      },
+      {
+        "text": "caben",
+        "start": 18.429,
+        "end": 18.669
+      },
+      {
+        "text": "en",
+        "start": 18.669,
+        "end": 18.749
+      },
+      {
+        "text": "un",
+        "start": 18.749,
+        "end": 18.909
+      },
+      {
+        "text": "mapa",
+        "start": 18.909,
+        "end": 19.229
+      },
+      {
+        "text": "sino",
+        "start": 19.629,
+        "end": 19.869
+      },
+      {
+        "text": "en",
+        "start": 19.869,
+        "end": 20.029
+      },
+      {
+        "text": "cuánto",
+        "start": 20.029,
+        "end": 20.269
+      },
+      {
+        "text": "horizonte",
+        "start": 20.269,
+        "end": 20.669
+      },
+      {
+        "text": "abierto",
+        "start": 20.669,
+        "end": 21.309
+      },
+      {
+        "text": "cuánta",
+        "start": 21.469,
+        "end": 21.869
+      },
+      {
+        "text": "agua",
+        "start": 21.869,
+        "end": 22.029
+      },
+      {
+        "text": "limpia",
+        "start": 22.029,
+        "end": 22.509
+      },
+      {
+        "text": "y",
+        "start": 22.749,
+        "end": 22.909
+      },
+      {
+        "text": "cuánta",
+        "start": 22.909,
+        "end": 23.229
+      },
+      {
+        "text": "calma",
+        "start": 23.229,
+        "end": 23.469
+      },
+      {
+        "text": "le",
+        "start": 23.469,
+        "end": 23.549
+      },
+      {
+        "text": "quedan",
+        "start": 23.549,
+        "end": 23.869
+      },
+      {
+        "text": "a",
+        "start": 23.869,
+        "end": 23.869
+      },
+      {
+        "text": "un",
+        "start": 23.869,
+        "end": 24.029
+      },
+      {
+        "text": "país",
+        "start": 24.029,
+        "end": 24.349
+      },
+      {
+        "text": "cuando",
+        "start": 24.589,
+        "end": 24.829
+      },
+      {
+        "text": "el",
+        "start": 24.829,
+        "end": 24.829
+      },
+      {
+        "text": "resto",
+        "start": 24.829,
+        "end": 25.149
+      },
+      {
+        "text": "del",
+        "start": 25.149,
+        "end": 25.229
+      },
+      {
+        "text": "mundo",
+        "start": 25.229,
+        "end": 25.469
+      },
+      {
+        "text": "se",
+        "start": 25.469,
+        "end": 25.629
+      },
+      {
+        "text": "haya",
+        "start": 25.629,
+        "end": 25.789
+      },
+      {
+        "text": "quedado",
+        "start": 25.789,
+        "end": 26.109
+      },
+      {
+        "text": "sin",
+        "start": 26.109,
+        "end": 26.269
+      },
+      {
+        "text": "espacio",
+        "start": 26.269,
+        "end": 26.829
+      }
+    ]
+  }
+}
